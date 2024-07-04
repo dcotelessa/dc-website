@@ -1,0 +1,59 @@
+---
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  classNames?: {
+    container?: string;
+    ul?: string;
+    li?: string;
+    a?: string;
+  };
+}
+type SocialItem = {
+  name: string;
+  icon: string;
+  href: string;
+};
+
+const socialItems: SocialItem[] = [
+  {
+    name: "Github",
+    icon: "github",
+    href: "https://github.com/dcotelessa",
+  },
+  {
+    name: "Mastodon",
+    icon: "mastodon",
+    href: "https://mstdn.social/@dcotelessa",
+  },
+  {
+    name: "X",
+    icon: "x",
+    href: "https://x.com/dcotelessa",
+  },
+  {
+    name: "Linkedin",
+    icon: "linkedin",
+    href: "https://www.linkedin.com/in/dcotelessa/",
+  },
+];
+
+const { classNames } = Astro.props as Props;
+---
+
+<nav class={classNames?.container}>
+  <ul class={classNames?.ul}>
+    {
+      socialItems.map((item) => {
+        return (
+          <li class={classNames?.li}>
+            <a target="_blank" class={classNames?.a} href={item.href}>
+              <Icon name={item.icon} />
+              <span class="sr-only">{item.name}</span>
+            </a>
+          </li>
+        );
+      })
+    }
+  </ul>
+</nav>

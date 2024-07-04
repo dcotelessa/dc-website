@@ -1,0 +1,25 @@
+---
+import { Icon } from "astro-icon/components";
+
+const copywrite = `© ${new Date().getFullYear()} David Cotelessa`;
+---
+
+<footer class="wrapper w-full my-4">
+  <div class="w-full flex justify-between items-center">
+    <div>
+      <span>{copywrite}</span>
+    </div>
+    <div class="flex flex-row space-x-4">
+      <div class="text-gray-500">
+        <a href="https://github.com/dcotelessa/dc-website" target="_blank" aria-label="Git">
+          <Icon name="git" />
+        </a>
+      </div>
+      <div class="text-amber-500">
+        <a href={`${Astro.site}rss.xml`} aria-label="RSS">
+          <Icon name="rss" />
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>

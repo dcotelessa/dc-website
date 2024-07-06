@@ -16,7 +16,8 @@ const menuItems: MenuItem[] = [
   },
   {
     text: "resume",
-    href: "/resume",
+    href: "/docs/resume-dcotelessa.pdf",
+    target: "_blank",
   },
   {
     text: "contact",

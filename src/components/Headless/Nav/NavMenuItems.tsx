@@ -4,6 +4,7 @@ import { useContext } from "react";
 export type MenuItem = {
   text: string;
   href: string;
+  target?: "_blank" | "_self";
 };
 
 interface NavMenuItemsProps {
@@ -31,7 +32,7 @@ export function NavMenuItems({
     <ul className={`${isMenuOpen ? "" : "hidden"} ${classNames.ul}`}>
       {items.map((item) => (
         <li key={item.text} className={classNames.li}>
-          <a href={item.href} className={classNames.a}>
+          <a href={item.href} target={item.target} className={classNames.a}>
             {item.text}
           </a>
         </li>

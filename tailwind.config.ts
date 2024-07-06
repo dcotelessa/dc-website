@@ -62,6 +62,10 @@ export default {
       "3xl": "8rem",
       full: "9999px",
     },
+    ul: {
+      listStyleType: "disc",
+      listStylePosition: "inside",
+    }
   },
   safelist: getTailwindSafeList(),
   plugins: [require("@tailwindcss/container-queries")],

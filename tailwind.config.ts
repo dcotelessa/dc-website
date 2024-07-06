@@ -65,7 +65,7 @@ export default {
     ul: {
       listStyleType: "disc",
       listStylePosition: "inside",
-    }
+    },
   },
   safelist: getTailwindSafeList(),
   plugins: [require("@tailwindcss/container-queries")],

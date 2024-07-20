@@ -62,5 +62,6 @@
     "serve": "^14.2.3",
     "vitest": "^1.6.0",
     "wait-on": "^7.2.0"
-  }
+  },
+  "packageManager": "pnpm@7.29.2+sha512.1b5cf5135b8ac038e11bce602585ddc9c47d343e02cb58cadd66eda8ad3d4687c1ada6a0cff997758a1cd31efae51babc0fd4da75fd58bfb89e9f66a1d45a0cb"
 }

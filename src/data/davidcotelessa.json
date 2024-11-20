@@ -5,9 +5,9 @@
   "email": "david@cotelessa.com",
   "socials": [
     {
-      "name": "Twitter",
-      "url": "https://x.com/dcotelessa",
-      "icon": "x",
+      "name": "BlueSky",
+      "url": "https://bsky.app/profile/dcotelessa.bsky.social",
+      "icon": "bsky",
       "brandColor": "#FFFFFF"
     },
     {

@@ -1,0 +1,200 @@
+<!-- src/pages/blog/daily-cssbattles/[month]/index.astro -->
+---
+import { getCollection } from 'astro:content';
+import LayoutBase from '@layouts/LayoutBase.astro';
+
+export async function getStaticPaths() {
+  const monthlyBattles = await getCollection('daily-cssbattles');
+  
+  return monthlyBattles.map(battles => ({
+    params: { month: battles.data.month },
+    props: { battles }
+  }));
+}
+
+const { battles } = Astro.props;
+const { data } = battles;
+
+// Helper function for date formatting
+function formatDate(dateString) {
+  return new Date(dateString).toLocaleDateString('en-US', { 
+    weekday: 'long', 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric' 
+  });
+}
+---
+
+<LayoutBase 
+  title={`CSS Battle Solutions - ${data.monthName} ${data.year}`}
+  description={`${data.totalSolutions} CSS Battle solutions completed in ${data.monthName} ${data.year}`}
+>
+  <main class="wrapper py-20">
+    <!-- Header -->
+    <header class="text-center mb-12">
+      <nav class="mb-4">
+        <a 
+          href="/blog/daily-cssbattles/" 
+          class="text-emerald-200 hover:text-emerald-100 transition-colors"
+        >
+          ← Back to All Solutions
+        </a>
+      </nav>
+      
+      <h1 class="text-3xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-emerald-200 to-blue-200 bg-clip-text text-transparent">
+        CSS Battle Solutions
+      </h1>
+      <h2 class="text-xl md:text-2xl text-smoke-200 mb-6">
+        {data.monthName} {data.year}
+      </h2>
+      
+      <div class="card inline-block">
+        <p class="text-smoke-300">
+          <strong class="text-emerald-200">{data.totalSolutions}</strong> solutions completed this month
+        </p>
+      </div>
+    </header>
+
+    <!-- Solutions Grid -->
+    <section>
+      <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {data.solutions.map(solution => (
+          <article class="card group hover:bg-smoke-800 transition-colors">
+            <div class="mb-4">
+              <div class="flex justify-between items-start mb-3">
+                <h3 class="text-lg font-bold group-hover:text-emerald-200 transition-colors">
+                  Target #{solution.target}
+                </h3>
+                <span class="text-xs bg-emerald-600 text-white px-2 py-1 rounded">
+                  {solution.bytes}b
+                </span>
+              </div>
+              
+              <div class="text-sm text-smoke-400 mb-3">
+                {formatDate(solution.date)}
+              </div>
+              
+              <div class="flex flex-wrap gap-2 mb-4">
+                <span class="px-2 py-1 bg-smoke-700 text-smoke-100 rounded text-xs capitalize">
+                  {solution.difficulty}
+                </span>
+              </div>
+            </div>
+            
+            {solution.has_image && (
+              <div class="mb-4">
+                <img 
+                  src={`/images/cssbattle/${solution.date}/${solution.screenshot}`}
+                  alt={`Target ${solution.target} comparison`}
+                  class="w-full h-32 object-cover border border-smoke-700 rounded group-hover:border-emerald-200 transition-colors cursor-pointer modal-trigger"
+                  loading="lazy"
+                  data-modal-src={`/images/cssbattle/${solution.date}/${solution.screenshot}`}
+                  data-modal-caption={`Target ${solution.target} - ${solution.date}`}
+                />
+              </div>
+            )}
+            
+            <details class="group/details">
+              <summary class="cursor-pointer p-3 bg-smoke-700 hover:bg-smoke-600 rounded font-medium transition-colors list-none text-sm">
+                <div class="flex justify-between items-center">
+                  <span>View CSS ({solution.bytes} bytes)</span>
+                  <span class="text-emerald-200 group-open/details:rotate-180 transition-transform text-xs">▼</span>
+                </div>
+              </summary>
+              <div class="mt-2">
+                <pre class="bg-smoke-800 border border-smoke-700 rounded p-3 overflow-x-auto text-xs"><code class="text-emerald-200">{solution.css}</code></pre>
+              </div>
+            </details>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <!-- Navigation -->
+    <nav class="mt-12 text-center">
+      <a 
+        href="/blog/daily-cssbattles/" 
+        class="inline-block px-6 py-3 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg transition-colors"
+      >
+        ← Back to All Solutions
+      </a>
+    </nav>
+  </main>
+
+  <!-- Image Modal -->
+  <div id="imageModal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 hidden">
+    <div class="max-w-4xl max-h-full p-4 relative">
+      <button 
+        onclick="closeModal()" 
+        class="absolute top-2 right-2 text-white bg-black bg-opacity-50 hover:bg-opacity-75 rounded-full w-8 h-8 flex items-center justify-center transition-colors z-10"
+        aria-label="Close modal"
+      >
+        ✕
+      </button>
+      <img 
+        id="modalImage" 
+        src="" 
+        alt="" 
+        class="max-w-full max-h-full object-contain border-2 border-smoke-300 rounded-lg"
+      />
+      <div class="text-center mt-4">
+        <p id="modalCaption" class="text-white font-medium"></p>
+      </div>
+    </div>
+  </div>
+</LayoutBase>
+
+<script>
+  // Modal functions
+  function openModal(imageSrc, caption) {
+    const modal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    const modalCaption = document.getElementById('modalCaption');
+    
+    modalImage.src = imageSrc;
+    modalImage.alt = caption;
+    modalCaption.textContent = caption;
+    modal.classList.remove('hidden');
+    
+    // Prevent body scrolling
+    document.body.style.overflow = 'hidden';
+  }
+  
+  function closeModal() {
+    const modal = document.getElementById('imageModal');
+    modal.classList.add('hidden');
+    
+    // Restore body scrolling
+    document.body.style.overflow = '';
+  }
+  
+  // Set up event listeners when page loads
+  document.addEventListener('DOMContentLoaded', function() {
+    // Add click listeners to all modal trigger images
+    document.querySelectorAll('.modal-trigger').forEach(img => {
+      img.addEventListener('click', function() {
+        const src = this.getAttribute('data-modal-src');
+        const caption = this.getAttribute('data-modal-caption');
+        openModal(src, caption);
+      });
+    });
+    
+    // Close modal on escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeModal();
+      }
+    });
+    
+    // Close modal when clicking outside the image
+    const modal = document.getElementById('imageModal');
+    if (modal) {
+      modal.addEventListener('click', function(e) {
+        if (e.target === this) {
+          closeModal();
+        }
+      });
+    }
+  });
+</script>

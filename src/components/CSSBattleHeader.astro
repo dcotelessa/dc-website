@@ -1,0 +1,88 @@
+---
+// Optional: Load stats from your JSON file
+import stats from '../data/stats.json' assert { type: 'json' };
+---
+
+<header class="cssbattle-intro">
+  <h1>Daily CSS Battle Solutions</h1>
+  
+  <div class="description">
+    <p>
+      <strong>CSS Battle</strong> is a web-based coding competition where developers write CSS 
+      to replicate target images using the fewest characters possible. Each challenge tests 
+      creativity, CSS knowledge, and code golf skills.
+    </p>
+    
+    <p>
+      I tackle these daily targets as part of my practice routine, focusing on learning new 
+      CSS techniques and optimizing for brevity. Each solution includes the CSS code, 
+      character count, and my approach to the challenge.
+    </p>
+  </div>
+  
+  <div class="quick-stats">
+    <span class="stat">
+      <strong>{stats?.total || 0}</strong> Solutions Completed
+    </span>
+    <span class="stat">
+      <strong>{stats?.avgBytes || 0}</strong> Avg Bytes
+    </span>
+    <span class="stat">
+      <strong>{stats?.currentStreak || 0}</strong> Day Streak
+    </span>
+  </div>
+  
+  <div class="links">
+    <a href="https://cssbattle.dev" target="_blank" rel="noopener">
+      Try CSS Battle →
+    </a>
+    <a href="https://github.com/dcotelessa/cssbattle-solutions" target="_blank" rel="noopener">
+      View Source Code →
+    </a>
+  </div>
+</header>
+
+<style>
+  .cssbattle-intro {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+  }
+  
+  .description p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+  
+  .quick-stats {
+    display: flex;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+  
+  .stat {
+    text-align: center;
+  }
+  
+  .links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .links a {
+    background: rgba(255,255,255,0.2);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  
+  .links a:hover {
+    background: rgba(255,255,255,0.3);
+  }
+</style>

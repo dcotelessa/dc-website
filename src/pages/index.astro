@@ -2,6 +2,8 @@
 import LayoutBase from "@layouts/LayoutBase.astro";
 import Avatar from "@images/brand/dc_profile.jpg";
 import SocialsHeadless from "@components/Headless/SocialNav.astro";
+import LatestCSSBattle from "@components/LatestCSSBattle.astro";
+import TechStack from "@components/TechStack.astro";
 import { Image } from "astro:assets";
 import LogoIcon from "@icons/dc_glasses.svg?raw";
 ---
@@ -26,7 +28,7 @@ import LogoIcon from "@icons/dc_glasses.svg?raw";
         <span>Cotelessa</span>
       </div>
     </h1>
-    <p class="text-2xl md:text-4xl">Software Engineer, Front End.</p>
+    <p class="text-2xl md:text-4xl">Contract Software Engineer.</p>
     <SocialsHeadless
       classNames={{
         ul: "flex flex-row space-x-3",
@@ -35,5 +37,41 @@ import LogoIcon from "@icons/dc_glasses.svg?raw";
       }}
     />
   </header>
-  <main class="wrapper mt-8"></main>
+<main class="wrapper mt-8">
+    <!-- 2x2 Grid Container for Homepage Components -->
+    <section class="grid gap-4 grid-cols-1 md:grid-cols-2 max-w-4xl mx-auto">
+      <!-- Tech Stack -->
+      <div class="bg-smoke-800/30 rounded-lg p-6 border border-smoke-700/50 hover:bg-smoke-800/50 transition-colors">
+        <TechStack />
+      </div>
+
+      <!-- Latest CSS Battle -->
+      <div class="bg-smoke-800/30 rounded-lg p-6 border border-smoke-700/50 hover:bg-smoke-800/50 transition-colors">
+        <LatestCSSBattle />
+      </div>
+      
+      <!-- Latest Blog Post -->
+      <div class="bg-smoke-800/30 rounded-lg p-6 border border-smoke-700/50 hover:bg-smoke-800/50 transition-colors">
+        <div class="h-full flex flex-col justify-center items-center text-center">
+          <h2 class="text-xl font-semibold text-white mb-2">Latest Blog Post</h2>
+          <p class="text-smoke-300 text-sm mb-4">Coming soon...</p>
+          <div class="px-4 py-2 bg-smoke-700/50 text-smoke-400 rounded text-sm">
+            Blog
+          </div>
+        </div>
+      </div>
+      
+      <!-- Featured Project -->
+      <div class="bg-smoke-800/30 rounded-lg p-6 border border-smoke-700/50 hover:bg-smoke-800/50 transition-colors">
+        <div class="h-full flex flex-col justify-center items-center text-center">
+          <h2 class="text-xl font-semibold text-white mb-2">Featured Project</h2>
+          <p class="text-smoke-300 text-sm mb-4">Coming soon...</p>
+          <div class="px-4 py-2 bg-smoke-700/50 text-smoke-400 rounded text-sm">
+            Project
+          </div>
+        </div>
+      </div>
+      
+    </section>
+  </main>
 </LayoutBase>

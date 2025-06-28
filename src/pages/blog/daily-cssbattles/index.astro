@@ -1,0 +1,240 @@
+<!-- src/pages/blog/daily-cssbattles/index.astro -->
+---
+import { getCollection } from 'astro:content';
+import LayoutBase from '@layouts/LayoutBase.astro';
+import stats from '../../../data/stats.json';
+import latestSolution from '../../../data/latest.json';
+
+const monthlyBattles = await getCollection('daily-cssbattles');
+const sortedMonths = monthlyBattles.sort((a, b) => 
+  new Date(b.data.month + '-01').getTime() - new Date(a.data.month + '-01').getTime()
+);
+
+// Helper function for date formatting
+function formatDate(dateString) {
+  return new Date(dateString).toLocaleDateString('en-US', { 
+    weekday: 'long', 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric' 
+  });
+}
+---
+
+<LayoutBase 
+  title="CSS Battle Solutions"
+  description="My daily CSS Battle solutions - practicing CSS techniques and code golf optimization"
+>
+  <main class="wrapper py-20">
+    <!-- Header Section -->
+    <header class="mb-12 text-center">
+      <h1 class="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-emerald-200 to-blue-200 bg-clip-text text-transparent">
+        Daily CSS Battle Solutions
+      </h1>
+      
+      <div class="card mb-8">
+        <div class="max-w-3xl mx-auto">
+          <p class="text-lg md:text-xl mb-4">
+            <strong>CSS Battle</strong> is a web-based coding competition where developers write CSS 
+            to replicate target images using the fewest characters possible. Each challenge tests 
+            creativity, CSS knowledge, and code golf skills.
+          </p>
+          
+          <p class="text-smoke-200 mb-6">
+            I tackle these daily targets as part of my practice routine, focusing on learning new 
+            CSS techniques and optimizing for brevity. Each solution includes the CSS code, 
+            character count, and my approach to the challenge.
+          </p>
+          
+          <div class="flex flex-wrap justify-center gap-6 text-center mb-6">
+            <div class="px-4 py-2 bg-smoke-700 rounded-lg">
+              <div class="text-2xl font-bold text-emerald-200">{stats?.total || 0}</div>
+              <div class="text-sm text-smoke-300">Solutions Completed</div>
+            </div>
+            <div class="px-4 py-2 bg-smoke-700 rounded-lg">
+              <div class="text-2xl font-bold text-emerald-200">{stats?.avgBytes || 0}</div>
+              <div class="text-sm text-smoke-300">Avg Bytes</div>
+            </div>
+            <div class="px-4 py-2 bg-smoke-700 rounded-lg">
+              <div class="text-2xl font-bold text-emerald-200">{sortedMonths.length}</div>
+              <div class="text-sm text-smoke-300">Active Months</div>
+            </div>
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4">
+            <a 
+              href="https://cssbattle.dev" 
+              target="_blank" 
+              rel="noopener"
+              class="px-6 py-3 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg transition-colors"
+            >
+              Try CSS Battle →
+            </a>
+            <a 
+              href="https://github.com/dcotelessa/cssbattle-solutions" 
+              target="_blank" 
+              rel="noopener"
+              class="px-6 py-3 bg-smoke-700 hover:bg-smoke-600 text-smoke-100 rounded-lg transition-colors"
+            >
+              View Source Code →
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Latest Solution Section -->
+    <section class="mb-12">
+      <h2 class="text-2xl md:text-3xl font-bold mb-6 text-center">Latest Solution</h2>
+      <div id="latest-solution-container">
+        <!-- This will be populated by the component below -->
+      </div>
+    </section>
+
+    <!-- Monthly Archives -->
+    <section>
+      <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">Solution Archives</h2>
+      <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {sortedMonths.map(month => (
+          <a 
+            href={`/blog/daily-cssbattles/${month.data.month}/`} 
+            class="card hover:bg-smoke-800 transition-colors group"
+          >
+            <div class="flex justify-between items-start mb-3">
+              <h3 class="text-xl font-bold group-hover:text-emerald-200 transition-colors">
+                {month.data.monthName} {month.data.year}
+              </h3>
+              <span class="text-sm bg-emerald-600 text-white px-2 py-1 rounded">
+                {month.data.totalSolutions} solutions
+              </span>
+            </div>
+            <p class="text-smoke-300 mb-4">
+              Completed {month.data.totalSolutions} CSS Battle challenges this month
+            </p>
+            <div class="text-emerald-200 font-medium group-hover:text-emerald-100 transition-colors">
+              View Solutions →
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</LayoutBase>
+
+<script define:vars={{ latestSolution }}>
+  // Use the imported data directly instead of fetch
+  function loadLatestSolution() {
+    const container = document.getElementById('latest-solution-container');
+    
+    if (container && latestSolution) {
+      // Build HTML string piece by piece
+      let html = '<div class="card max-w-4xl mx-auto">';
+      html += '<div class="flex flex-col md:flex-row justify-between items-start mb-6">';
+      html += '<div>';
+      html += '<h3 class="text-xl font-bold mb-2">Daily Target #' + latestSolution.target + '</h3>';
+      html += '<div class="flex flex-wrap gap-4 text-sm">';
+      html += '<span class="text-smoke-300">' + new Date(latestSolution.date).toLocaleDateString() + '</span>';
+      html += '<span class="px-2 py-1 bg-emerald-600 text-white rounded">' + latestSolution.bytes + ' bytes</span>';
+      html += '<span class="px-2 py-1 bg-smoke-700 text-smoke-100 rounded capitalize">' + latestSolution.difficulty + '</span>';
+      html += '</div>';
+      html += '</div>';
+      html += '</div>';
+      
+      if (latestSolution.has_image) {
+        html += '<div class="mb-6 text-center">';
+        html += '<img src="/images/cssbattle/' + latestSolution.date + '/' + latestSolution.screenshot + '" ';
+        html += 'alt="CSS Battle Target ' + latestSolution.target + ' - Target vs My Solution" ';
+        html += 'class="max-w-full h-auto border-2 border-smoke-700 rounded-lg mx-auto cursor-pointer modal-trigger" ';
+        html += 'loading="lazy" ';
+        html += 'data-modal-src="/images/cssbattle/' + latestSolution.date + '/' + latestSolution.screenshot + '" ';
+        html += 'data-modal-caption="Target ' + latestSolution.target + ' - ' + latestSolution.date + '" />';
+        html += '</div>';
+      }
+      
+      html += '<details class="mb-4">';
+      html += '<summary class="cursor-pointer p-4 bg-smoke-700 hover:bg-smoke-600 rounded-lg font-medium transition-colors">';
+      html += 'View CSS Code (' + latestSolution.bytes + ' bytes)';
+      html += '</summary>';
+      html += '<pre class="bg-smoke-800 border border-smoke-700 border-t-0 rounded-b-lg p-4 overflow-x-auto"><code class="text-emerald-200">' + latestSolution.css + '</code></pre>';
+      html += '</details>';
+      
+      html += '<div class="text-center">';
+      html += '<a href="/blog/daily-cssbattles/' + latestSolution.date.substring(0, 7) + '/" ';
+      html += 'class="inline-block px-6 py-3 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg transition-colors">';
+      html += 'View All Solutions This Month →';
+      html += '</a>';
+      html += '</div>';
+      html += '</div>';
+      
+      container.innerHTML = html;
+      
+      // Set up modal listeners
+      setupModalListeners();
+    } else {
+      container.innerHTML = '<div class="text-center text-smoke-400">Unable to load latest solution</div>';
+    }
+  }
+  
+  // Rest of your modal functions...
+  function setupModalListeners() {
+    document.querySelectorAll('.modal-trigger').forEach(img => {
+      if (!img.hasAttribute('data-modal-setup')) {
+        img.setAttribute('data-modal-setup', 'true');
+        img.addEventListener('click', function() {
+          const src = this.getAttribute('data-modal-src');
+          const caption = this.getAttribute('data-modal-caption');
+          openModal(src, caption);
+        });
+      }
+    });
+  }
+  
+  function openModal(imageSrc, caption) {
+    const modal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    const modalCaption = document.getElementById('modalCaption');
+    
+    modalImage.src = imageSrc;
+    modalImage.alt = caption;
+    modalCaption.textContent = caption;
+    modal.classList.remove('hidden');
+    
+    document.body.style.overflow = 'hidden';
+  }
+  
+  function closeModal() {
+    const modal = document.getElementById('imageModal');
+    modal.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+  
+  // Initialize function
+  function initLatestSolution() {
+    loadLatestSolution();
+    
+    // Set up modal close events
+    const closeBtn = document.querySelector('.close-modal-btn');
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeModal);
+    }
+    
+    const modal = document.getElementById('imageModal');
+    if (modal) {
+      modal.addEventListener('click', function(e) {
+        if (e.target === this) {
+          closeModal();
+        }
+      });
+    }
+    
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeModal();
+      }
+    });
+  }
+  
+  // Handle both initial page load and view transitions
+  document.addEventListener('DOMContentLoaded', initLatestSolution);
+  document.addEventListener('astro:page-load', initLatestSolution);
+</script>

@@ -1,0 +1,97 @@
+---
+import latestSolution from '../data/latest.json';
+
+function getImagePath(solution) {
+    if (!solution.has_image) return null;
+    return `/images/cssbattle/${solution.date}/${solution.screenshot}`;
+}
+---
+
+{latestSolution && (
+  <section class="latest-solution">
+    <h2>Latest Solution</h2>
+    <div class="solution-card">
+      <div class="solution-header">
+        <h3>Daily Target #{latestSolution.target}</h3>
+        <div class="meta">
+          <span class="date">{new Date(latestSolution.date).toLocaleDateString()}</span>
+          <span class="bytes">{latestSolution.bytes} bytes</span>
+          <span class={`difficulty ${latestSolution.difficulty}`}>
+            {latestSolution.difficulty}
+          </span>
+        </div>
+      </div>
+      
+      <!-- Single Comparison Screenshot -->
+      {latestSolution.has_image && (
+        <div class="solution-visual">
+          <img 
+            src={getImagePath(latestSolution)} 
+            alt={`CSS Battle Target ${latestSolution.target} - Target vs My Solution`}
+            loading="lazy"
+            class="comparison-image"
+          />
+        </div>
+      )}
+      
+      <details class="solution-code-toggle">
+        <summary>View CSS Code ({latestSolution.bytes} bytes)</summary>
+        <pre class="solution-code"><code class="language-css">{latestSolution.css}</code></pre>
+      </details>
+      
+      <div class="solution-actions">
+        <a href={`/blog/daily-cssbattles/${latestSolution.date.substring(0, 7)}/`}>
+          View All Solutions This Month →
+        </a>
+      </div>
+    </div>
+  </section>
+)}
+
+<style>
+  .solution-visual {
+    margin: 1.5rem 0;
+    text-align: center;
+  }
+  
+  .comparison-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background: white;
+  }
+  
+  .solution-code-toggle {
+    margin: 1rem 0;
+  }
+  
+  .solution-code-toggle summary {
+    cursor: pointer;
+    padding: 0.75rem;
+    background: #f1f5f9;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: background 0.2s;
+  }
+  
+  .solution-code-toggle summary:hover {
+    background: #e2e8f0;
+  }
+  
+  .solution-code-toggle[open] summary {
+    border-bottom: 1px solid #e2e8f0;
+    border-radius: 6px 6px 0 0;
+  }
+  
+  .solution-code {
+    background: #f7fafc;
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    padding: 1rem;
+    margin: 0;
+    overflow-x: auto;
+  }
+</style>

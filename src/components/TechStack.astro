@@ -1,0 +1,147 @@
+<!-- src/components/TechStack.astro -->
+---
+// Tech Stack Component - displays technologies with icons
+---
+
+<div class="h-full flex flex-col">
+  <div class="text-center mb-4">
+    <h2 class="text-xl font-semibold text-white mb-2">
+      Tech Stack
+    </h2>
+    <p class="text-smoke-300 text-sm">
+      Technologies I work most often with
+    </p>
+  </div>
+  
+<div class="flex-1 flex flex-col justify-center">
+    <div class="grid grid-cols-4 gap-3">
+      <!-- TypeScript -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" class="w-6 h-6 filter brightness-0 invert" alt="TypeScript" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">TypeScript</span>
+      </div>
+
+      <!-- React -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-cyan-500 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" class="w-6 h-6 filter brightness-0 invert" alt="React" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">React</span>
+      </div>
+
+      <!-- Vue -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" class="w-6 h-6 filter brightness-0 invert" alt="Vue.js" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Vue</span>
+      </div>
+
+      <!-- Node.js -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-green-500 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" class="w-6 h-6 filter brightness-0 invert" alt="Node.js" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Node</span>
+      </div>
+
+      <!-- Next.js -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-black rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" class="w-6 h-6 filter brightness-0 invert" alt="Next.js" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Next</span>
+      </div>
+
+      <!-- Vite -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-cyan-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" class="w-6 h-6 filter brightness-0 invert" alt="Vite" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Vite</span>
+      </div>
+
+      <!-- Go -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-cyan-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/go.svg" class="w-6 h-6 filter brightness-0 invert" alt="Go" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Go</span>
+      </div>
+
+      <!-- PostgreSQL -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-sky-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" class="w-6 h-6 filter brightness-0 invert" alt="PostgreSQL" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">PostgreSQL</span>
+      </div>
+
+      <!-- MongoDB -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" class="w-6 h-6 filter brightness-0 invert" alt="MongoDB" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">MongoDB</span>
+      </div>
+
+      <!-- Docker -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-blue-500 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" class="w-6 h-6 filter brightness-0 invert" alt="Docker" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Docker</span>
+      </div>
+
+      <!-- AWS -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-orange-500 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonwebservices.svg" class="w-6 h-6 filter brightness-0 invert" alt="AWS" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">AWS</span>
+      </div>
+
+      <!-- HTML -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-orange-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" class="w-6 h-6 filter brightness-0 invert" alt="HTML5" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">HTML</span>
+      </div>
+
+      <!-- PHP -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" class="w-6 h-6 filter brightness-0 invert" alt="PHP" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">PHP</span>
+      </div>
+
+      <!-- Tailwind CSS -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" class="w-6 h-6 filter brightness-0 invert" alt="Tailwind CSS" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">Tailwind</span>
+      </div>
+
+      <!-- GitHub -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-gray-700 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" class="w-6 h-6 filter brightness-0 invert" alt="GitHub" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">GitHub</span>
+      </div>
+
+      <!-- NeoVim -->
+      <div class="flex flex-col items-center group">
+        <div class="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/neovim.svg" class="w-6 h-6 filter brightness-0 invert" alt="NeoVim" />
+        </div>
+        <span class="text-xs text-smoke-400 mt-1">NeoVim</span>
+      </div>
+
+    </div>
+</div>

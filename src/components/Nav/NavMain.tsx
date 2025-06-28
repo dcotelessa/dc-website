@@ -15,6 +15,10 @@ const menuItems: MenuItem[] = [
     href: "/projects",
   },
   {
+    text: "css battles",
+    href: "/blog/daily-cssbattles",
+  },
+  {
     text: "resume",
     href: "/docs/resume-dcotelessa.pdf",
     target: "_blank",

@@ -1,0 +1,56 @@
+name: Update CSS Battle Solutions
+
+# Trigger on push to daily-targets in solutions repo
+on:
+  repository_dispatch:
+    types: [cssbattle-update]
+  workflow_dispatch: # Manual trigger
+  schedule:
+    - cron: '0 9 * * *' # Daily at 9 AM UTC (optional backup)
+
+jobs:
+  update-solutions:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Astro site
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.21'
+        
+    - name: Install dependencies
+      run: |
+        cd scripts
+        go mod download
+        
+    - name: Run CSS Battle sync
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        cd scripts
+        go run cssbattle-sync.go
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install Astro dependencies
+      run: npm ci
+      
+    - name: Build Astro site
+      run: npm run build
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || git commit -m "Update CSS Battle solutions - $(date)"
+        git push

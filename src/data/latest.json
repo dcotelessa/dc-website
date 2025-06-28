@@ -1,0 +1,9 @@
+{
+  "date": "2025-06-28",
+  "target": 179,
+  "css": "*{background:#fff;border:solid;border-width:var(--w,80);border-color:var(--c,0#5A8D9A 0#9CBBC2);margin:var(--m,-80 120);*{position:fixed;--m:80-170;--w:45;padding:25 125;--c:#9CBBC2;p{--m:-70-90-70 0;padding:25 40;--w:45 0;--c:#5A8D9A;+p{--m:-70-80;--c:#749FAA",
+  "bytes": 260,
+  "difficulty": "easy",
+  "screenshot": "target-1-comparison.png",
+  "has_image": true
+}

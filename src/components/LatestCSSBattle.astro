@@ -1,0 +1,158 @@
+<!-- src/components/LatestCSSBattle.astro -->
+---
+// This component will load the latest CSS Battle solution
+import latestSolution from '../data/latest.json';
+---
+
+<div class="h-full flex flex-col">
+  <div class="text-center mb-4">
+    <h2 class="text-xl font-semibold text-white mb-2">
+      Latest CSS Battle
+    </h2>
+    <p class="text-smoke-300 text-sm">
+      My most recent daily challenge
+    </p>
+  </div>
+  
+  <div id="latest-cssbattle-container" class="flex-1 flex flex-col justify-center">
+    <!-- Content will be populated by script -->
+  </div>
+</div>
+
+<!-- Image Modal for homepage -->
+<div id="cssbattle-modal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 hidden">
+  <div class="max-w-4xl max-h-full p-4 relative">
+    <button 
+      class="close-modal-btn absolute top-2 right-2 text-white bg-black bg-opacity-50 hover:bg-opacity-75 rounded-full w-8 h-8 flex items-center justify-center transition-colors z-10"
+      aria-label="Close modal"
+    >
+      ✕
+    </button>
+    <img 
+      id="cssbattle-modal-image" 
+      src="" 
+      alt="" 
+      class="max-w-full max-h-full object-contain border-2 border-smoke-300 rounded-lg"
+    />
+    <div class="text-center mt-4">
+      <p id="cssbattle-modal-caption" class="text-white font-medium"></p>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ latestSolution }}>
+  // Use the imported data directly
+  function loadLatestCSSBattle() {
+    const container = document.getElementById('latest-cssbattle-container');
+    
+    if (container && latestSolution) {
+      // Build compact HTML for grid layout (no card wrapper since grid item has background)
+      let html = '<div class="h-full flex flex-col">';
+      html += '<div class="text-center mb-3">';
+      html += '<h3 class="text-lg font-medium mb-2 text-white">Target #' + latestSolution.target + '</h3>';
+      html += '<div class="flex justify-center gap-2 text-xs flex-wrap">';
+      html += '<span class="px-2 py-1 bg-emerald-600 text-white rounded">' + latestSolution.bytes + 'b</span>';
+      html += '<span class="px-2 py-1 bg-smoke-700 text-smoke-100 rounded">' + latestSolution.difficulty + '</span>';
+      html += '</div>';
+      html += '</div>';
+      
+      if (latestSolution.has_image) {
+        html += '<div class="mb-3 flex-1 flex items-center justify-center">';
+        html += '<img src="/images/cssbattle/' + latestSolution.date + '/' + latestSolution.screenshot + '" ';
+        html += 'alt="CSS Battle Target ' + latestSolution.target + '" ';
+        html += 'class="max-w-full h-32 object-cover border border-smoke-600 rounded cursor-pointer hover:border-emerald-400 transition-colors cssbattle-modal-trigger" ';
+        html += 'loading="lazy" ';
+        html += 'data-modal-src="/images/cssbattle/' + latestSolution.date + '/' + latestSolution.screenshot + '" ';
+        html += 'data-modal-caption="Target ' + latestSolution.target + ' - ' + latestSolution.date + '" />';
+        html += '</div>';
+      } else {
+        html += '<div class="mb-3 flex-1 flex items-center justify-center">';
+        html += '<div class="w-full h-32 bg-smoke-700/30 border border-smoke-600 rounded flex items-center justify-center">';
+        html += '<span class="text-smoke-400 text-sm">No preview available</span>';
+        html += '</div>';
+        html += '</div>';
+      }
+      
+      html += '<div class="mt-auto">';
+      html += '<a href="/blog/daily-cssbattles/" class="block w-full px-3 py-2 bg-emerald-600/90 hover:bg-emerald-500 text-white text-sm rounded text-center transition-colors">';
+      html += 'View All Solutions';
+      html += '</a>';
+      html += '</div>';
+      html += '</div>';
+      
+      container.innerHTML = html;
+      
+      // Set up modal for the image
+      setupCSSBattleModal();
+    } else {
+      container.innerHTML = '<div class="h-full flex items-center justify-center"><div class="text-center text-smoke-400 text-sm">Unable to load latest solution</div></div>';
+    }
+  }
+  
+  // Set up modal functionality
+  function setupCSSBattleModal() {
+    const trigger = document.querySelector('.cssbattle-modal-trigger');
+    if (trigger) {
+      trigger.addEventListener('click', function() {
+        const src = this.getAttribute('data-modal-src');
+        const caption = this.getAttribute('data-modal-caption');
+        openCSSBattleModal(src, caption);
+      });
+    }
+  }
+  
+  function openCSSBattleModal(imageSrc, caption) {
+    const modal = document.getElementById('cssbattle-modal');
+    const modalImage = document.getElementById('cssbattle-modal-image');
+    const modalCaption = document.getElementById('cssbattle-modal-caption');
+    
+    modalImage.src = imageSrc;
+    modalImage.alt = caption;
+    modalCaption.textContent = caption;
+    modal.classList.remove('hidden');
+    
+    // Prevent body scrolling
+    document.body.style.overflow = 'hidden';
+  }
+  
+  function closeCSSBattleModal() {
+    const modal = document.getElementById('cssbattle-modal');
+    modal.classList.add('hidden');
+    
+    // Restore body scrolling
+    document.body.style.overflow = '';
+  }
+  
+  // Initialize the component
+  function initCSSBattleComponent() {
+    // Load the latest solution
+    loadLatestCSSBattle();
+    
+    // Set up modal close events
+    const modal = document.getElementById('cssbattle-modal');
+    const closeBtn = modal?.querySelector('.close-modal-btn');
+    
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeCSSBattleModal);
+    }
+    
+    if (modal) {
+      modal.addEventListener('click', function(e) {
+        if (e.target === this) {
+          closeCSSBattleModal();
+        }
+      });
+    }
+    
+    // Close on escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeCSSBattleModal();
+      }
+    });
+  }
+  
+  // Handle both initial page load and view transitions
+  document.addEventListener('DOMContentLoaded', initCSSBattleComponent);
+  document.addEventListener('astro:page-load', initCSSBattleComponent);
+</script>

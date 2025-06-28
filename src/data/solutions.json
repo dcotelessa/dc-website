@@ -1,0 +1,1946 @@
+[
+  {
+    "date": "2024-11-16",
+    "target": 321,
+    "css": "\u0026{margin:180 155-30;padding:10;border:32q solid#DE88AF}*{background:#6255AA;+*{background:#DE88AF;margin:-130-130 80 20;border-radius:50% 50% 50% 0;-webkit-box-reflect:left 32q}p{position:fixed;padding:30;margin:30;border-radius:50%",
+    "bytes": 232,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-22",
+    "target": 327,
+    "css": "*{background:#ECD5E4;*{background:#984842;margin:105 110;color:984842;box-shadow:230px 165px,-230px 165px,230px -165px,-230px -165px",
+    "bytes": 132,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-23",
+    "target": 328,
+    "css": "*{background:#EEB850;body{background:#243D83;border-radius:21q;margin:95 90;padding:20;p{margin:0 55;padding:7.5;+p{margin:40 55 0",
+    "bytes": 130,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-24",
+    "target": 329,
+    "css": "*{background:#328FC1;*{background:#EEB850;color:EEB850;margin:140 150;box-shadow:131q 23q,-131q 23q,131q -23q,-131q -23q",
+    "bytes": 120,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-25",
+    "target": 330,
+    "css": "p{position:fixed;padding:30 60;top:0;left:40;border-radius:0 50q 50q 0;+p{top:90;left:0}}*{background:#E8AD6D;*,p{background:#7E6293;margin:30 220 30 120}*{border-radius:31q 0 31q 31q",
+    "bytes": 183,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-26",
+    "target": 331,
+    "css": "\u0026{background:#6255AA;margin:180 155-30;padding:10;border:32q solid#DE88AF}*+*{background:#DE88AF;margin:-130-130 80 20;border-radius:50% 50% 50% 0;-webkit-box-reflect:left 32q}p{position:fixed;padding:30;background:#6255AA;margin:30;border-radius:50%",
+    "bytes": 250,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-27",
+    "target": 332,
+    "css": "*{background:#C0D6E7;*{background:linear-gradient(#D95362 95px,#0000 95px 135px,#D95362 0);margin:35;clip-path:polygon(15%100%,85%100%,50%0",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-28",
+    "target": 333,
+    "css": "*{background:var(--b,#2F5A76);+*{display:flex;flex-wrap:wrap;margin:40 90}}p{margin:0;width:110;height:110;border-radius:0 0 0 99%;--b:#F5BB60;+p{--b:#F56760;rotate:90deg;+p{--b:#F56760;rotate:-90deg;+p{--b:#F5BB60;rotate:180deg",
+    "bytes": 228,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-29",
+    "target": 334,
+    "css": "*{background:#35312F;p{padding:28;background:#F3AC3C;margin: 50 244 196 92;box-shadow:8q 8q 0 9q#35312F,26q 26q 0 26q#F3AC3C;-webkit-box-reflect:right 93q;+p{scale: 1-1;margin: -108 292 124 92",
+    "bytes": 192,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-11-30",
+    "target": 335,
+    "css": "*{background:var(--b,#F3EAD2)}p{position:fixed;--b:#D96C7B;margin:72 201;padding:70 21;transform:skew(-20deg);+p{--b:#8F3F4A;margin:72 141;transform:skew(20deg);+p{--b:linear-gradient(#8F3F4A 21q,#F3EAD2 21q);padding:15 400;margin:117-10",
+    "bytes": 237,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-01",
+    "target": 336,
+    "css": "*{background:#0B2429}\u0026,p{border:53q solid#0000;border-top:85q solid#4A7D7B;margin:110 150}p{scale:-1;margin:-138 42;-webkit-box-reflect:right 106q",
+    "bytes": 146,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-02",
+    "target": 337,
+    "css": "p{position:fixed;padding:10 30;margin:20-20}*{background:#E0E7FF;*{background:#0B2429}+*{color:D96C7B;margin:120 190;box-shadow:60px 40px,40px 60px,20px 80px,-60px 40px,-40px 60px,-20px 80px;-webkit-box-reflect:above -60px",
+    "bytes": 222,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-03",
+    "target": 338,
+    "css": "*{background:#5DBCF9;*{background:#fff;margin:90 180;p,a{position:fixed;margin:-90-140;padding:150 20;a{margin:70-180;padding:20 120;+a{margin:-110-180}",
+    "bytes": 152,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-05",
+    "target": 340,
+    "css": "*{background:#F2EAA8;*{background:linear-gradient(#7E6293 50%,#DE6B67 0);border-radius:50%;margin:50 175 50 25;p{position:fixed;padding:25;margin:75 300;+p{scale:-1;padding:50;margin:50 200",
+    "bytes": 189,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-06",
+    "target": 341,
+    "css": "body{background:#0B2429;display:grid;margin:60 110}p{margin:0;background:#F3AC3C}[a]{border-radius:70q 0}[b]{border-radius:70q 70q 0 0",
+    "bytes": 134,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-07",
+    "target": 342,
+    "css": "\u0026{background:radial-gradient(circle,#fff 40px,#0B2429 0 100px,#63A3A0 0);box-shadow:inset 0-150px#fff",
+    "bytes": 101,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-08",
+    "target": 343,
+    "css": "*{background:linear-gradient(#6255AA 50%,#DBD7F6 0);*{padding:100 125}+*{scale:-1;margin:50 75;p{scale:-.4-.5;margin:-100-125",
+    "bytes": 125,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-09",
+    "target": 344,
+    "css": "*+*{color: A52F28;background:#F0DAC1;margin:90 140;border:solid;border-right-color:#0000;border-width:90 80;box-shadow:-160px -60px#C3463D,-160px 0",
+    "bytes": 147,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-10",
+    "target": 345,
+    "css": "\u0026{background:#5DBCF9;color:5DBCF9;margin:60 226 140 34;box-shadow:96px -38q#C3463D,203q 85q,96px 123q#C3463D,0 85q,203q 0,0 0 0 240q#FADE8B",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-11",
+    "target": 346,
+    "css": "*{background:#FFF6D2;*{border:15q solid#67645E;margin:60 110;border-radius:21q;p{position:fixed;padding:110 7;border:0;color:E88933;margin:-34 -11;box-shadow:21q 0,53q 0,85q 0,116q 0,148q 0;z-index:-1;+p{rotate:-90deg;margin:46 69",
+    "bytes": 230,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-12",
+    "target": 347,
+    "css": "*+*{background:#6255AA;display:flex;margin:63 39;p{margin:7;background:#CF81AF;padding:20;height:0;+p{padding:40;+p{padding:80",
+    "bytes": 126,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-13",
+    "target": 348,
+    "css": "*{background:var(--b,#61A74E);border-radius:var(--r, 1in);position:fixed}b{padding:60 20;margin:-60-20;--b:#61A74E}p{padding:90;--b:#FADE8B;margin:22 102;+p{padding:30 90;--r:1in 0;margin:188 102;rotate:30deg",
+    "bytes": 208,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-14",
+    "target": 349,
+    "css": "*{background:#2F5A76;+*{background:#F5BB60;color:F5BB60;margin:100 150;rotate:45deg;box-shadow:0 21q#2F5A76,21q 0#2F5A76,0 -21q#2F5A76,-21q 0#2F5A76,0 53q,53q 0,0-53q,-53q 0",
+    "bytes": 173,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-15",
+    "target": 350,
+    "css": "*{background:#F0F0F0;border:solid#E05947;border-width:30 0 30 30;margin:50 75;*{border-radius:2in 0 0 2in;margin:-30 0-30 120",
+    "bytes": 125,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-16",
+    "target": 351,
+    "css": "\u0026{background:radial-gradient(1q at 50%42%,#222 40px,#FADE8B 0 74q,#222 0);margin:99 75 80;border-inline:80q solid#FADE8B;box-shadow:0 32q#222,0 0 0 212q#FADE8B",
+    "bytes": 159,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-17",
+    "target": 352,
+    "css": "\u0026{color:#588A95;margin:60 110;box-shadow:inset 24px 24px#fff,inset 48px 48px, inset 72px 72px#fff,inset 96px 96px,inset 120px 120px#fff,inset 144px 144px,inset 168px 168px#fff,inset 182px 182px,0 0 0 212q#588A95",
+    "bytes": 211,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-18",
+    "target": 353,
+    "css": "*{background:#FAE29E;width:0;height:0;margin:80 98;border-top:70px solid#0000;border-right:86px solid#EA9A52;border-bottom:70px solid#0000;+*{scale:-1;margin:-70 118",
+    "bytes": 165,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-20",
+    "target": 355,
+    "css": "*{background:#3F4869;+*{background:radial-gradient(circle,#0000 0 53q,#61A74E 0 80px,#0000 0)}p{position:fixed;background:#61A74E;margin:42 177;padding:40 15",
+    "bytes": 157,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-21",
+    "target": 356,
+    "css": "*{background:#EA9A52;+*{background:radial-gradient(circle,#0000 0 53q,#435998 0 80px,#0000 0)}p{position:fixed;background:#435998;margin:-5 177;padding:55 15;rotate:45deg",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-23",
+    "target": 358,
+    "css": "*{background:#3F4869;border:60px solid#F4DA64;padding:70;transform:matrix(var(--m,1,0,0,1,80,-65));+*{border-width:35px;border-radius:30q;--m:1.73,-1,1.73,1,99,-28",
+    "bytes": 163,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-24",
+    "target": 359,
+    "css": "*{background:radial-gradient(1q,#E0E7FF 53q,#4F77FF 0 95q,#E0E7FF 0 106q,#4F77FF 0 148q, #E0E7FF);*{background:#E0E7FF;margin:130 0 130 160;box-shadow:158q 0 0 21q#E0E7FF",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-25",
+    "target": 360,
+    "css": "p{padding:45 55;translate:-145px 0;rotate:90deg}*{background:#D96C7B;*{margin:105 115;border-inline:1.9em solid#fff;color:D96C7B;box-shadow:-10px 0,10px 0,-40px 0#fff,40px 0#fff",
+    "bytes": 177,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-26",
+    "target": 361,
+    "css": "*{background:#5393BD;margin:50 100;border:solid#FAE29E;border-width:0 0 var(--r,30px)30px;*{position:fixed;rotate:-45deg;translate:-93px -63px;padding:80;--r:0",
+    "bytes": 159,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-27",
+    "target": 362,
+    "css": "\u0026{background:#61A74E;margin:30 120;border-inline:40px solid#EFF8FE;p{margin:40-170;padding:20 0;background:#EFF8FE;-webkit-box-reflect:below 80px",
+    "bytes": 145,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-28",
+    "target": 363,
+    "css": "*{background:var(--b,#3F4869); ;p{position:fixed;border-radius:20px 20px 20px 0;--b:#61A74E;margin:52 102;padding:80 30;+p{--b:#EA9A52;padding:30 90;+p{--b:#AA3440;margin:172 102;scale:1-1",
+    "bytes": 188,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-29",
+    "target": 364,
+    "css": "*{background:var(--b,#7C9A81);+*{margin:105 65;--b:#FFF9C6;border-radius:1in;p{translate:70px;padding:45;--b:radial-gradient(circle,#EFCB5C 35px,#7C9A81 35px 65px,#0000 0",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-30",
+    "target": 365,
+    "css": "\u0026{background:radial-gradient(circle,#0000 26%,#3F4869 0),radial-gradient(circle at 25%,#3F4869 64px,#978963 0 28%,#EFCB5C 0",
+    "bytes": 123,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2024-12-31",
+    "target": 366,
+    "css": "*{background:#328FC1;+*{background:#FADE8B;border-radius:1in;margin:-99 0 25 250;-webkit-box-reflect:left 100px",
+    "bytes": 111,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-01",
+    "target": 1,
+    "css": "*{background:#3F9461;+*{background:#fff;margin:60 40;p{color:3F9461;width:40;height:70;margin:40;box-shadow:0 110px,254q 0,254q 110px,80px 40px,80px 110px,160px 0,160px 70px",
+    "bytes": 173,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-02",
+    "target": 2,
+    "css": "*{background:var(--b,#2F5A76);*{--b:#F5BB60;margin:45 35-15;p{color:#2F5A76;--b:#2F5A76;padding:15;margin:0;translate:var(--t,0 30px);box-shadow:0 120px}+p{rotate:90deg;--t:60px;+p{margin:60 90;--t:120px -30px;box-shadow:0 120px,0 240px",
+    "bytes": 236,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-03",
+    "target": 3,
+    "css": "*{background:#F5E3B5;*{background:linear-gradient(#0000 60px,#469DBA 0 95q,#0000 0),radial-gradient(circle at 240px 0,#0000 60px,#469DBA 0 120px,#0000 0);margin:60 80;-webkit-box-reflect:below -180px",
+    "bytes": 199,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-04",
+    "target": 4,
+    "css": "*{background:#2F5A76;border:20px solid#F3AC3C;margin:35 120;*{margin:65;translate:-185px;padding:0 150;border-width:30",
+    "bytes": 118,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-05",
+    "target": 5,
+    "css": "*{border-radius:50%;background:linear-gradient(90deg,#0000 75px,#B8F4A6 0 125px,#0000 0),linear-gradient(#3BA44D 75px,#B8F4A6 0 125px,#3BA44D 0);margin:-135-110;border:160px solid#B8F4A6",
+    "bytes": 186,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-06",
+    "target": 6,
+    "css": "*{background:#B8DCF0;*{rotate:45deg;background:#3F4869;margin:115 165;color:3F4869;box-shadow:112q 112q 0 38q,-112q -112q 0 38q",
+    "bytes": 127,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-07",
+    "target": 7,
+    "css": "*{background:radial-gradient(var(--a, #4A9A86 0,#4A9A86 0));+*{display:flex;margin:100 50;p{padding:40;margin:10;--a:#FAE29E 20px,#4C4C6B 0;+[a]{--a:#4C4C6B 20px,#FAE29E 0",
+    "bytes": 171,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-08",
+    "target": 8,
+    "css": "*{background:#D95362;body{background:#2D3464;border-radius:50%;margin:40 90;p{position:fixed;margin:35 90;padding:37 20;+p{padding:20 75;margin:90 35",
+    "bytes": 149,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-09",
+    "target": 9,
+    "css": "*{background:#FADE8B;color:61A74E;border:solid;border-width:0 40 40;margin:15 105 55;border-radius:0 0 127q;*{border-radius:50%;border-width:40;margin:0-80 70 70;box-shadow:-159q 159q 0-40px#FADE8B,-159q 159q,0-11q#FADE8B",
+    "bytes": 221,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-10",
+    "target": 10,
+    "css": "\u0026{border-radius:50%;margin:-90 0-10;background:linear-gradient(#FFE4E0 50%,#0000 50%),radial-gradient(#FFE4E0 100px,#E05947 0 150px,#FFE4E0 0 300px);*{background:#E05947;margin:140 175;translate:0 40px",
+    "bytes": 201,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-11",
+    "target": 11,
+    "css": "*{background:#2F5A76;margin:20 70 70;+*{border:30px solid#7EA6DD;-webkit-box-reflect:below -20px;border-radius:50%;i{position:fixed;padding:40;margin:20-50",
+    "bytes": 155,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-12",
+    "target": 12,
+    "css": "*{background:#668884;margin:15;color:#668884;body{background:#EED9D9;p{padding:20;width:46;translate:6px;box-shadow:14q 40px,94q 40px,36q 80px,62q 80px,144px 80px;+p{translate:218px 145px;scale:-1",
+    "bytes": 196,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-13",
+    "target": 13,
+    "css": "*{background:#587795;*{background:radial-gradient(#0000 10px,#E8AD6D 0 20px)-10px/60px 60px;margin:70 120",
+    "bytes": 105,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-15",
+    "target": 15,
+    "css": "*{background:#E0E7FF;border: solid#4F77FF;border-width:75 0;margin:0 185;*{border-color:#0000#0000#4F77FF;border-width:30;margin:0-76 90;-webkit-box-reflect: below 30px",
+    "bytes": 168,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-16",
+    "target": 16,
+    "css": "*{background:#8F77DA;p{background:#A1E6E4;margin:-78 29q;padding:35;rotate:55deg;translate:1q 134q}+p{rotate:-55deg;translate:0 142q",
+    "bytes": 132,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-17",
+    "target": 17,
+    "css": "*{background:#61A74E;color:#fff;margin:30;border:20px solid#fff;body{margin:60 110;border-radius:50%;p{position:fixed;padding:30 10;left:0;top:70;box-shadow:140px -74q 0-21q;+p{scale:-1;left:280",
+    "bytes": 194,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-18",
+    "target": 18,
+    "css": "p,a{position:fixed;padding:20;margin:52 72;border:40px solid#328FC1;border-radius:50%}a{border-width:0 40 40 0;border-radius:0 0 100%;padding:40;margin:0-60}p+p{left: 128",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-19",
+    "target": 19,
+    "css": "*{background:radial-gradient(circle at 0 0,#FADE8B 70px,#328FC1 0 4in,#0000 0);margin:0;*{scale:-1;p{position:fixed;padding:70;margin:80 130;background:#FADE8B",
+    "bytes": 159,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-20",
+    "target": 20,
+    "css": "\u0026{background:#F9DDC6;margin:-85-6;border:1in solid#594C94}p{color:594C94;padding:13 97;box-shadow:-18px 42px,18px 118px,-18px 194px",
+    "bytes": 131,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-21",
+    "target": 21,
+    "css": "*{background:#2F5A76;*{background:#BFE33A;margin:80 8;p{position:fixed;margin:-5 117;rotate:45deg;padding:35;border:40px solid#2F5A76",
+    "bytes": 133,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-22",
+    "target": 22,
+    "css": "*{background:linear-gradient(#DE6B67 214px,#EDDF5A 0 240px,#DE6B67 0);margin:0;*{color:#EDDF5A;background:#DE6B67;margin:150 186 18;box-shadow:0 -131px 0-1px,-26px -56px,26px -56px",
+    "bytes": 180,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-23",
+    "target": 23,
+    "css": "*{background:#A1E6E4}\u0026{border:60px solid#2F5A76;margin:50}p{position:fixed;padding:15;color:A1E6E4;margin:17-38;box-shadow:210px 0,-30px -85px,-30px 85px,240px 85px,240px -85px",
+    "bytes": 176,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-24",
+    "target": 24,
+    "css": "*{margin:0;background:radial-gradient(1q at 150px,#0000 90px,#E0E7FF),radial-gradient(1q at 250px,#0000 90px,#E0E7FF),linear-gradient(#328FC1 50%,#2D3464 0",
+    "bytes": 155,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-25",
+    "target": 25,
+    "css": "*{background:linear-gradient(var(--r,90deg,#EA9A52 44%,#FFF 0 56%,#EA9A52 0));margin:-55;border-radius:10em;border:30px solid#435998;position:fixed;padding:200 125;top:-225;left:100;*{--r:90deg,#0000 44%,#FFF 0 56%,#0000 0;top:175",
+    "bytes": 230,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-26",
+    "target": 26,
+    "css": "*{background:linear-gradient(90deg,#FFF 30px,#AC342E 0)185px;+*{color:FFF;margin:135 120;box-shadow:inset 0 35q,160px 75px,-160px 75px,160px -75px,-160px -75px",
+    "bytes": 159,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-27",
+    "target": 27,
+    "css": "*{background:#469DBA;color:F5E3B5;*{background:#F5E3B5;margin:135;translate:-205px;box-shadow:0-120px,0 120px,60px -60px,60px 60px;-webkit-box-reflect:right 280px",
+    "bytes": 162,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-28",
+    "target": 28,
+    "css": "*{background:linear-gradient(90deg,var(--b,#D08825 141px,#2D3464 0 259px,#D08825 0));*{--b:#FADE8B 130px,#2D3464 0 200px,#FADE8B 0 330px,#2D3464 0;margin:85 0",
+    "bytes": 158,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-29",
+    "target": 29,
+    "css": "*{margin:0;background:radial-gradient(circle,var(--a,#FADE8B,#61A74E 0 48%),#0000 0),linear-gradient(#FADE8B 50%,#61A74E 0 190px,var(--c,#FADE8B)50%);*{--a:#61A74E 16%,#FADE8B 0 32%;--c:#0000",
+    "bytes": 191,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-30",
+    "target": 30,
+    "css": "*{background:radial-gradient(1q,#4B4D88 53q,#5AED9C);*{background:#4B4D88;border-radius:1in;margin:24 185 216;p{margin:28 68;padding:30 15;position:fixed;rotate:45deg}p+p{left:49;rotate:-45deg}[a]{rotate:90deg;margin:96 40;-webkit-box-reflect:below -267q",
+    "bytes": 254,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-01-31",
+    "target": 31,
+    "css": "*{background:#2F5A76;border:43q solid#C15965;margin:40 60;box-shadow:0 85q#2F5A76}\u0026{border-radius:2in;*{border-color:#000#0000#C15965;border-width:0 40 60",
+    "bytes": 154,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-01",
+    "target": 32,
+    "css": "*{background:#DE817E}\u0026{margin:72 83 72 142;background:#EBE77E;p{position:fixed;border:solid; border-width:70 60 70 0;border-color:var(--c,#EBE77E#DE817E#EBE77E)#0000;top:64;left:90;+p{left:250;--c:#DE817E#EBE77E#DE817E",
+    "bytes": 218,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-02",
+    "target": 33,
+    "css": "*{background:radial-gradient(circle,#46487C 60px,#EED9D9 0);margin:0 0-180;*{position:fixed;background:#469DBA;margin:120 60;padding:30 140;p{padding:30;left:0;top:-60;+p{left:220;top:60",
+    "bytes": 186,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-03",
+    "target": 34,
+    "css": "*{background:var(--b,#9076D8);*{--b:#F5E3B5;margin:60 160;p{--b:#9076D8;margin:0;border-style:solid;border-width:0 40 40;border-color:#F5E3B5#F5E3B5#0000#F5E3B5;+p+p{translate:0 80px",
+    "bytes": 182,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-04",
+    "target": 35,
+    "css": "p{border-radius:20q;position:fixed;background:#4B4D88;margin:var(--m,222 66);padding:15 126;+p{padding:30 15;--m:112 177;+p{rotate:45deg;--m:144 245;+p{--m:44 245;+p{rotate:-45deg;--m:44 109;+p{--m:144 109",
+    "bytes": 205,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-05",
+    "target": 36,
+    "css": "*{background:#BFE33A;p{margin:30 172 0-28;width:160;height:300;border:40px solid#5A9F48;border-radius:2in;clip-path:polygon(0 0,0 99%,50%99%,var(--a,50%107q,99%107q),99%0);+p{margin:-520 172;scale:-1;--a:50%106q,99%106q",
+    "bytes": 219,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-06",
+    "target": 37,
+    "css": "*{background:radial-gradient(1q at var(--a,50%180px,#2D3464 42px,#D95362));*{translate:0 172px;--a:192px 0,#0000 80px,#2D3464 0 120px,#0000;p{padding:99;translate:-99px -99px;rotate:90deg;+p{translate:99px -513px;rotate:-90deg",
+    "bytes": 226,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-07",
+    "target": 38,
+    "css": "*{background:linear-gradient(#EA9A52 148q,#96551A 0 160px,#EA9A52 0);*{background:radial-gradient(1q at 192px 0,#0000 80px,#96551A 0 120px,#0000);translate:var(--a,0 142px);p{padding:60;scale:-1;--a:-106q -127q;+p{--a:106q -271q",
+    "bytes": 228,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-08",
+    "target": 39,
+    "css": "\u0026{background:#EDECC1;border:53q solid#CC5252;border-radius:50%;margin:25 75;*{background:#CC5252;margin:50 0;rotate:-30deg",
+    "bytes": 122,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-09",
+    "target": 40,
+    "css": "*{background:radial-gradient(1q,#243D83 25px,#6592CF 0 120px,#0000),var(--c,#6592CF);border:solid#243D83;position:fixed;top:75;left:40;border-width:var(--b,75 160);*{top:6;left:117;--b:136 75;p{--b:0;--c:#0000;width:240;height:240;top:14;left:80",
+    "bytes": 245,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-10",
+    "target": 41,
+    "css": "*{background:var(--c,#fff);*{--c:radial-gradient(1q,#fff 0 120px,#328FC1)212q/540q;margin:95 0;p{--c:radial-gradient(1q,#328FC1 25px,#fff);height:150;margin:-20 105",
+    "bytes": 164,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-11",
+    "target": 42,
+    "css": "*{background:#FBFDB7;*{background:#46BA67;margin:120 60;p{position:fixed;padding:60 30;left:0;top:-120;box-shadow:233q 180px#46BA67,0 180px#D95362,233q 0#D95362",
+    "bytes": 160,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-12",
+    "target": 43,
+    "css": "*{background:#343D42;+*{background:radial-gradient(233q at 50% 100%,#7C87D1 50%,#343D42 0);color:7C87D1;margin:0 90 130;border-bottom:20px solid#343D42;box-shadow:0 40px;p{width:40;height:90;translate:90px 75px",
+    "bytes": 210,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-13",
+    "target": 44,
+    "css": "*{background:#00B0C8;body{margin:30;border-inline:160px solid#183539;p{width:100;height:60;translate:-40px var(--t,);+p{--t:104px",
+    "bytes": 129,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-14",
+    "target": 45,
+    "css": "*{background:#75CF34;*{margin:100 180 160;background:#963032;color:963032;-webkit-box-reflect:below 20px;box-shadow:-30px -20px,30px -20px,40px 0, -40px 0",
+    "bytes": 154,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-15",
+    "target": 46,
+    "css": "*{background:#FADE8B;*{margin:14 100;background:#61A74E;p{width:240;height:86;translate:-120px 200px;+p{background:#FADE8B;width:40;height:45;translate:-20px 55px",
+    "bytes": 162,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-16",
+    "target": 47,
+    "css": "*{position:fixed;background:var(--b,#EED9D9);border-radius:var(--r,70q);border:30px solid var(--c,#668884);padding:30;\u0026{top:90;left:40;*{top:82;left:232}p{--b:#668884;top:74;left:140;--c:#EED9D9;a{top:30;left:40;--c:#668884;--b:;padding:60 15;--r:70q 0 0 70q;border-width:30 0 30 30",
+    "bytes": 282,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-17",
+    "target": 48,
+    "css": "*{position:fixed;background:#2D3464;border-radius:64q 0 0 0;border:solid#D95362;border-width:30 0 0 30;padding:15;margin:240 50;*{margin:-75 15;scale:-1;p{margin:15-75;+p{margin:15-135;scale:1-1;+p{margin:-75-225;+p{margin:-45-165;scale:-1 1",
+    "bytes": 241,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-18",
+    "target": 49,
+    "css": "\u0026{border:solid#46BA67;border-width:100 50 0;background:#D9D9D9;p{margin:-8;padding:40;border-inline:85q solid#343D42",
+    "bytes": 116,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-19",
+    "target": 50,
+    "css": "*{background:#D95362;+*{margin:90 175 90 205;background:#0000;outline:50px dotted#FDFFE9;p{position:fixed;background:#FDFFE9;padding:110 40;margin:-50-80",
+    "bytes": 153,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-20",
+    "target": 51,
+    "css": "*{background:var(--b,#3F4869);*{--b:#9C8A39;margin:198 80 0;p{padding:50 120;translate:-80px -45px;--b:#FBE374;border-radius:50%;+p{padding:30 90;--b:#3F4869;translate:-50px -336px",
+    "bytes": 180,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-21",
+    "target": 52,
+    "css": "*{background:var(--b,#183539);*{--b:#EBE77E;margin:15 150;border-radius:var(--r,1in 1in 0 0)}p{--r:;--b:#183539;padding:8q 25;translate:-150px 90px;+p{--r:50%;padding:25;translate:-175px 150px",
+    "bytes": 192,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-22",
+    "target": 53,
+    "css": "\u0026{background:#96551A;color:EA9A52;border-width:35;margin:115 165;box-shadow:0 80px 0 35px,0-80px 0 35px",
+    "bytes": 103,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-23",
+    "target": 54,
+    "css": "*{background:#EAC049;*{background:#51A499;margin:0 110;border-block:var(--b,50px solid#51A499)}p{margin:0;padding:12.5 0;--b:25px solid#EAC049;+p{margin:50 0",
+    "bytes": 157,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-24",
+    "target": 55,
+    "css": "*{background:#328FC1;*{border-radius:50%;background:#D9D9D9;color:343D42;margin:-20 71 40;border:solid;border-width:90 79;box-shadow:159q 0,-159q 0,0-15q",
+    "bytes": 153,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-25",
+    "target": 56,
+    "css": "*{background:#F2EAA8;margin:0 10;*{border:solid#3F4869;border-width:var(--w,50 0)}p{margin:25 90;padding:50;border-width:25px;color:F2EAA8;background:#3F4869;box-shadow:inset 20px 25px,inset -20px -25px",
+    "bytes": 202,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-26",
+    "target": 57,
+    "css": "*{background:var(--b,#46BA67);box-shadow:100px var(--c,170px),-100px var(--c,170px);+*{--b:#FAE29E;color:4C4C6B;margin:0 180 170}p{--b:#4C4C6B;color:FAE29E;border-radius:50%;height:40;translate:0 130px;--c:0",
+    "bytes": 207,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-27",
+    "target": 58,
+    "css": "p{background:#46BA67;padding:15;margin:96 52 0 67}\u0026{background:radial-gradient(circle,#0000 125px,#46BA67 0 155px,#0000 0)0-229px repeat-x,linear-gradient(90deg,#183539 150px,#46BA67 0 250px,#183539 0",
+    "bytes": 200,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-02-28",
+    "target": 59,
+    "css": "*{background:#EBE77E;margin:15 40;width:0;border:0 solid#DE817E}p{margin:0;padding:25;border-width:0 0 30 30;+p{margin:0 80;+p{margin:0 160",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-01",
+    "target": 60,
+    "css": "body{background:#5AED9C}p{border:0 solid#4B4D88;margin:110 152;padding:25;border-width:0 0 30 30;+p{margin:-240 202;+p{margin:260 202 0 102",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-02",
+    "target": 61,
+    "css": "*{background:var(--a,#84B9C7);p{--a:#1A353C;margin:100 32 20;height:30;+p{margin:0 32 0 232;height:104;color:1A353C;-webkit-box-reflect:left 80px;box-shadow:inset 30px 0;--a:radial-gradient(127q at 50% 0,#84B9C7 25%,#1A353C 0 50%,#0000 0",
+    "bytes": 237,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-03",
+    "target": 62,
+    "css": "*{background:#EAC049;border-radius:50%;p{margin:70 112;background:linear-gradient(var(--a,#343D42)50%,#0000 0);width:160;height:160;+p{scale:-.5;margin:-230 72;+p{--a:#EAC049;scale:.5;margin:70 152;+p{margin:-190 72;scale:.25",
+    "bytes": 225,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-04",
+    "target": 63,
+    "css": "*{background:#4A9A86;border:solid;border-color:#EBF6F0#0000;border-width:var(--a,100 77);*{--a:0;border-radius:50%;padding:84 85;margin:-34 38",
+    "bytes": 142,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-05",
+    "target": 64,
+    "css": "*{background:#6255AA;margin:0 16}p{background:#D96E9F;width:122;height:120;clip-path:polygon(77%0,1%100%,155%100%);+p{scale:1-1;margin:60 16;+p{scale:-1-1;margin:-180 198;+p{scale:-1 1;margin:-300 198",
+    "bytes": 200,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-06",
+    "target": 65,
+    "css": "\u0026{background:linear-gradient(90deg,#E8AD6D 90q,#DE6B67 0 125px,#E8AD6D 0 145px,#DE6B67 0 255px,#E8AD6D 0 275px,#DE6B67 0 315px,#E8AD6D 0);p{margin:80 171;background:#E8AD6D;width:42;height:30;clip-path:polygon(50%0,0%50%,50%100%,100%50%",
+    "bytes": 236,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-07",
+    "target": 66,
+    "css": "*{background:#FFEFF7;*{background:radial-gradient(16%50%at 238px,#000 35q,#0000 0),linear-gradient(90deg,#226AA9 145px,#DEB467 0);margin:70 0;clip-path:polygon(0%0%,153q 0%,270q 50%,106q 2in,0%2in",
+    "bytes": 196,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-08",
+    "target": 67,
+    "css": "*{background:#498488;body{margin:80;background:linear-gradient(#D9D9D9 20px,#D99795 0)}p{border-radius:50%;padding:60;position:fixed;margin:80-60;+p{margin:80 180",
+    "bytes": 162,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-09",
+    "target": 68,
+    "css": "\u0026{margin:0 80;background:#C12E33;border:solid#323130;border-width:160 40 0;p{position:fixed;margin:-168 48 150-8;border:85q solid;border-color:#C12E33#0000;+p{margin:-208-8;rotate:90deg;height:80",
+    "bytes": 195,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-10",
+    "target": 69,
+    "css": "*{background:#F58220;body{background:#fff;margin:70 110;transform:skew(-20.5deg)}p{margin:20 60;padding:35 30",
+    "bytes": 109,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-11",
+    "target": 70,
+    "css": "*{background:#00B0C8;margin:0;p{border:solid#323130;border-width:30 120;padding:40;margin:-30 0 110}x{background:#323130;padding:20 40;margin:-130 0;display:flex",
+    "bytes": 161,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-12",
+    "target": 71,
+    "css": "*{background:#BFE33A;body{border:40px solid#5A9F48;border-radius:50%;margin:30-20 30 180;-webkit-box-reflect:left -40px}p{position:fixed;padding:15 120 ;margin:65-40;+p{rotate:90deg",
+    "bytes": 181,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-13",
+    "target": 72,
+    "css": "*{background:#FFE8BD;p{border:solid#31798F;border-radius:1in 1in 0 0;margin:45 172;padding:85 30;border-width:40 40 0 40;+p{translate:-106q -255px",
+    "bytes": 146,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-14",
+    "target": 73,
+    "css": "*{background:#D96C7B;p{border:solid#8B0051;margin:181 72;width:60;height:74;border-width:0 40;+p{margin:-255 172",
+    "bytes": 112,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-15",
+    "target": 74,
+    "css": "*{background:#4F77FF;*{border:34q solid#fff;+*{border-radius:50%;height:128;margin:54 104}p{width:256;border-width:0 0 34q;margin:128-64",
+    "bytes": 136,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-16",
+    "target": 75,
+    "css": "\u0026{background:#EAC049;border:40px solid#51A499;margin:40 90}p{position: fixed;padding:70 90;border-inline:20px solid#EAC049;margin:-8-48;+p{rotate:-90deg",
+    "bytes": 152,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-17",
+    "target": 76,
+    "css": "*{background:var(--b,#F1DDF5)}body,[a]{--b:#000;border:25px solid#EAC049;border-radius:1in;width:30;height:30;margin:26 160}[a]{--b:#0000;margin:-25;border-color:#65A3C5;height:260}[b]{margin:-170-25;width:25;height:135;box-shadow:0-25px;--b:#F1DDF5;+[b]{margin:135 30",
+    "bytes": 268,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-18",
+    "target": 77,
+    "css": "*{background:#EAC049;*{background:#51A499;margin:20 70;p{position:fixed;width:180;height:140;border-inline:40px solid#EAC049;margin:60 0;+p{rotate:90deg;+p{background:#EAC049;width:60;margin:60;color:EAC049;box-shadow:100px 100px 0-60px,100px -100px 0-60px,-100px -100px 0-60px,-100px 100px 0-60px",
+    "bytes": 297,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-19",
+    "target": 78,
+    "css": "*{background:linear-gradient(90deg,#66DBB8 85px,#1A353C 0 115px,#66DBB8 0 285px,#1A353C 0 315px, #66DBB8 0);*{rotate:90deg;margin:90;p{padding:70;background:radial-gradient(#66DBB8 30px,#1A353C 0 60px,#0000 60px);translate:-60px 100px;-webkit-box-reflect:left 60px",
+    "bytes": 264,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-20",
+    "target": 79,
+    "css": "\u0026{background:linear-gradient(90deg,#D4ED33 85px,#1A353C 0 115px,#D4ED33 0 150px,#1A353C 0 180px,#D4ED33 0 220px,#1A353C 0 250px,#D4ED33 0 285px,#1A353C 0 315px, #D4ED33 0);*{background:#1A353C;margin:135 150",
+    "bytes": 207,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-21",
+    "target": 80,
+    "css": "*{background:linear-gradient(90deg,#A9FFFC 80px,#31798F 0 120px,#A9FFFC 0 180px,#31798F 0 220px,#A9FFFC 0 280px,#31798F 0 320px,#A9FFFC 0);*{width:0;border:solid;border-color:#A9FFFC#A9FFFC#1A353C;border-width:120 150;translate:42px -112px",
+    "bytes": 239,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-22",
+    "target": 81,
+    "css": "*{background:#FADE8B;+*{border:solid;border-color:#0000#0000#E3516E;border-width:50 62;translate:0-171px;margin:75;-webkit-box-reflect:below 40px;p{background:radial-gradient(#E3516E 21q,#FADE8B 0 53q,#0000 0);padding:63 40;translate:0 133px",
+    "bytes": 241,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-23",
+    "target": 82,
+    "css": "*{background:var(--b,#fff)}[d]{clip-path:polygon(100px 0,0 125px,220px 125px,240px 125px,140px 0)}body{margin:23 80;p{--b:#1A353C;position:fixed;padding:62.5 120;+p{--b:linear-gradient(#FFF 14px,#E0B673 0);padding:var(--a,100 20);margin:30 100;+[a]{--b:#FFF;--a:50;margin:91 70;border-radius:50%;+p{--b:#1A353C;--a:100;margin:141 20",
+    "bytes": 332,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-24",
+    "target": 83,
+    "css": "*{background:#E3516E;*{margin:30;border:20px solid#66284A;p{position:fixed;padding:60 110;margin:20;+p{padding:10;background:#66284A;margin:0;color:#66284A;box-shadow:240px 0,0 140px,240px 140px",
+    "bytes": 194,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-25",
+    "target": 84,
+    "css": "*{background:var(--b,#E35158);*{--b:#d9d9d9;margin:37 180;p{position:fixed;padding:7;margin:155 40;+p{margin:179 40;padding:15;+p{margin:-7 -36;padding:56;--b:radial-gradient(#E35158 20px,#D9D9D9 0 56px, #0000 0",
+    "bytes": 211,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-26",
+    "target": 85,
+    "css": "*{background:linear-gradient(#DAB897 var(--c,),#2D3464 0);body{--c:69px;margin:201 101 -99;border-radius:1in;p{position:fixed;--c:60px;padding:150 15;margin:-81 84;+p{width:70;margin:60 49",
+    "bytes": 188,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-27",
+    "target": 86,
+    "css": "*{background:radial-gradient(1q at 165px 80px,#EA3323 5px,#0000),radial-gradient(1q at 190px 80px,#EA3323 10px,#0000),radial-gradient(1q at 225px 80px,#EA3323 15px,#0000),#282828;body{margin:110 270;border:solid;border-color:#0000#F2A73B;border-width:40 0 40 40;p{position:fixed;background:#fff;margin:-70-180;border-radius:20px;padding:70;+p{background:#282828;border-radius:50%;padding:15 7.5;margin:-40-75",
+    "bytes": 408,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-28",
+    "target": 87,
+    "css": "*{background:var(--b,#00B0C8);+*{--b:#fff;margin:80 130;border:20px solid#1A353C;p{--b:#fff;padding:10 150;margin:40-100",
+    "bytes": 120,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-29",
+    "target": 88,
+    "css": "html,p{background:#6592CF;border:60px solid#FFFFCD}p{padding:60;margin:-188 212;position:fixed;border-radius:50%;+p{margin:112-188",
+    "bytes": 130,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-30",
+    "target": 89,
+    "css": "*{background:#E25C57;+*{margin:175 240 0 135;color:EDDF5A;box-shadow:30px 0 inset,35px -25px,70px -50px,105px -75px;p{padding:67;translate:0 25px",
+    "bytes": 145,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-03-31",
+    "target": 90,
+    "css": "*{background:#436F9B;*{color:E38F66;margin:135 185;box-shadow:30px 0 inset,0-25px,0 25px,-70px 25px,70px -25px,0 75px,-25px 75px,-50px 75px,-70px 75px,0-75px,25px -75px,50px -75px,70px -75px",
+    "bytes": 190,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-01",
+    "target": 91,
+    "css": "*{margin:0-60;background:linear-gradient(90deg,#EAC049 290px,#51A499 0);*{margin:60-60;scale:-1",
+    "bytes": 95,
+    "difficulty": "hard",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-02",
+    "target": 92,
+    "css": "*{background:#5A9F48;border:0 solid#394257;border-top-width:80;margin:70 100;*{border-inline-width:30px;margin:-5 55;padding:45 0;p{border-width:30;border-radius:50%;margin:-200-65;padding:50",
+    "bytes": 191,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-03",
+    "target": 93,
+    "css": "*{background:var(--b,#F5E3B5);*{--b:#469DBA;margin:90 120;p{position:fixed;border-radius:1in;margin:20-40;padding:40;+p{margin:20 120;--b:#F5E3B5;+p{--b:#469DBA;padding:20 80;margin:40 140",
+    "bytes": 188,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-04",
+    "target": 94,
+    "css": "html,p{background:#FEE;border:30px solid#56AE68;border-radius:0 1in 1in 0;margin:45 80 115;p{position:fixed;padding:35 90;margin:72-38;border-radius:0 70px 0 0;border-width:30 30 0",
+    "bytes": 180,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-05",
+    "target": 95,
+    "css": "*{background:radial-gradient(circle,#DE6B67 75px,#E8AD6D 0);p{position:fixed;padding:10 100;margin:132 92;background:linear-gradient(90deg,#E8AD6D 20px,#DE6B67 0)90px;rotate:45deg;+p{rotate:-45deg",
+    "bytes": 196,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-06",
+    "target": 96,
+    "css": "*{background:var(--b,#2A2753);margin:0;p{width:200;height:200;--b:#C3C441;clip-path:polygon(0 0,100%0,100%105px,50%195px,0 105px);+p{margin:-100 200;scale:-1;--b:#E25C57",
+    "bytes": 169,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-07",
+    "target": 97,
+    "css": "*{background:#FCEBEB;p{position:fixed;color:#8E2C88;background:#8E2C88;margin:106 180;padding:36 12;box-shadow:-88px 0,88px 0,var(--b,88px)0;+p{margin:154 136;padding:12;--b:176px",
+    "bytes": 179,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-08",
+    "target": 98,
+    "css": "*{background:#14576B;margin:12 62;border:20px solid#5A9F48;+*{margin:14;padding:50;p{color:14576B;margin:-36;border-width:70;box-shadow:120px 120px,-120px 120px,120px -120px,-120px -120px;a{position:fixed;border-color:#14576B;margin:-150-70;box-shadow:100px 0,180px 80px,180px 180px,100px 260px,0 260px,-80px 180px,-80px 80px",
+    "bytes": 325,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-09",
+    "target": 99,
+    "css": "*{position:fixed;background:#F58220;border:solid#fff;border-width:var(--b,20);margin:80 50;padding:50 130;*{background:radial-gradient(1q,#F58220 90px,#0000 0);margin:-70-150;padding:70 150;--b:0;p{margin:-10-150;padding:0 140;--b:10",
+    "bytes": 233,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-10",
+    "target": 100,
+    "css": "p{margin:52 22;padding:98;background:#BDC8D1;+p{padding:70 170;margin:-268 2;border:20px solid#fff;+p{margin:88 122;padding:70 50",
+    "bytes": 129,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-11",
+    "target": 101,
+    "css": "*{--b:#D96C7B;margin:110 190;translate:58q 110px;box-shadow:var(--a,-10px)0;color:8D424D}p{padding:70 50;--b:#D96C7B;translate:-296q -140px;+[a]{margin:-250 140;padding:70 50;--b:#8D424D;border-radius:1in 1in 0 0;--a:95q;color:D96C7B\n\u003c/style\u003e",
+    "bytes": 242,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-12",
+    "target": 102,
+    "css": "*{background:var(--b,#E3CC9E);+*{--b:#995757;margin:40 50;border-radius:50%/21q;p{padding:20;--b:#fff;border-radius:50%;+p{--b:#6C3232;translate:32q -74q;width:100;padding:10 20",
+    "bytes": 177,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-13",
+    "target": 103,
+    "css": "\u0026{background:#E3CC9E;*{background:#2A2753;margin:125 150;translate:58q;border-radius:1in;box-shadow:-180q 0#2A2753}p{margin:0 55;padding:25",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-14",
+    "target": 104,
+    "css": "\u0026{background:#343400;*{background:#469DBA;margin:70 75;border-radius:50%var(--r,50%)}p{padding:50;--r:0;margin:15;translate:0 42q;+p{color:343400;--r:;padding:15;translate:-32q -53q;margin:0 110;box-shadow:106q 0,32q 0,-42q 0",
+    "bytes": 225,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-15",
+    "target": 105,
+    "css": "\u0026{background:#4C3AB3;*{background:var(--b,#D96E9F);margin:30 100;border-radius:105q 105q 0 0}p{border:solid#4C3AB3;border-width:var(--i,10 10 0);padding:85 60;translate:-74q 32q;+p{position:fixed;translate:-30px -170px;padding:80 20;--b:#4C3AB3;+p{border-radius:50%;--i:0;padding:20;margin:40 110;--b:#D96E9F",
+    "bytes": 308,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-16",
+    "target": 106,
+    "css": "*{background:#4FC1AD;border:5ch solid#4C455B;margin:50 20;*{position:fixed;padding:85 60;margin:-90 40;background:#0000;border-image:linear-gradient(#4C455B 16.5q,#4FC1AD 0 78q,#4C455B 0)1 100",
+    "bytes": 192,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-17",
+    "target": 107,
+    "css": "\u0026{background:#D96C7B;margin:-174 -108}p{position:fixed;background:radial-gradient(1q,#fff var(--q,127q),#0000);clip-path:polygon(0 0,50%0,50%50%,0 50%);width:600;height:600;+p{rotate:90deg;--q:5em;+p{rotate:180deg;--q:5ch;+p{rotate:270deg;--q:5vw",
+    "bytes": 246,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-18",
+    "target": 108,
+    "css": "\u0026{background:#2D3464;*{background:radial-gradient(1q at 100%,#0000 40px,#D9D9D9 0 60px,#646DAB 0 80px,#0000);margin:70 200 70 120",
+    "bytes": 129,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-19",
+    "target": 109,
+    "css": "\u0026{border:solid#FEFAED;border-width:60 80;background:#F9D9BF;*{margin:0 180 90 0;background:#D4A29F;color:D4A29F;box-shadow:45vw 30vh",
+    "bytes": 132,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-20",
+    "target": 110,
+    "css": "\u0026{background:#2B2A4A;*{border-radius:0 0 1in 1in;background:linear-gradient(#DE9473 5ch,#0000 0 74q,#DE9473 0);margin:40 120 110;-webkit-box-reflect:below -80px",
+    "bytes": 160,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-21",
+    "target": 111,
+    "css": "*{background:var(--b,linear-gradient(#D96C7B 50%,#8AB8B6 0));*{margin:0 120;--b:radial-gradient(1q,#0000 5pc,#4C455B 0);p{color:4C455B;translate:5ch;padding:75;--b:#4C455B;box-shadow:60px 60px,0 90vh;+p{translate:-90vh;scale:-1",
+    "bytes": 227,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-22",
+    "target": 112,
+    "css": "*{background:#5A9F48;color:5A9F48;p{margin:100 62;border:solid#0000;border-width:96 125;border-top-color:#2A2753;b{padding:99 15;margin:0-10;box-shadow:70px 0,-70px 0",
+    "bytes": 166,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-23",
+    "target": 113,
+    "css": "\u0026{background:#fff;border:solid#68D0DF;border-width:70 120;p{position:fixed;padding:20 40;background:#9A5DCB;margin:-28 72;+p{margin:132-8;+p{margin:-28;padding:20;border-radius:1in;+p{margin:132",
+    "bytes": 194,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-24",
+    "target": 114,
+    "css": "*{background:#6255AA;*{background:#5DCBA3;color:5DCBA3;margin:125 25;p{position:fixed;padding:25;margin:50 250;box-shadow:53q 53q;-webkit-box-reflect:above 50px",
+    "bytes": 160,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-25",
+    "target": 115,
+    "css": "*{background:#F5E3B5;*{margin:-55 140 90;border-radius:1in;box-shadow:inset 0 0 0 30px;color:8D424D;p{position:fixed;padding:15;margin:115 30;border:15px solid#0000;z-index:2;+p{margin:145 0;border:45px solid;z-index:1;box-shadow:0-10px#8D424D",
+    "bytes": 243,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-26",
+    "target": 116,
+    "css": "*{background:#282828;+*{background:#EA3323;color:EA3323;border-radius:50%;margin:90 140;border:30px solid#282828;box-shadow:5ch 0,-5ch 0;p{padding:30 10;margin:0 20;position:fixed",
+    "bytes": 179,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-27",
+    "target": 117,
+    "css": "*{background:var(--b,#CAEBE4);body{--b:#5AA4B7;border-radius:50%;margin:60 110;p{position:fixed;padding:60;margin:90 150;--b:#CAEBE4;+p{margin:90-90",
+    "bytes": 148,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-28",
+    "target": 118,
+    "css": "*{background:#66DBB8;*{margin:100 0;background:linear-gradient(#4C4C6B 20px,#0000 0 30px,#4C4C6B 0 74q,#0000 0 5pc,#4C4C6B 0);p{position:fixed;margin:-50 150;padding:85 35;background:#0000;border-radius:1in;border:5vh solid#4C4C6B",
+    "bytes": 230,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-29",
+    "target": 119,
+    "css": "*{background:var(--b,#F7EC7D);*{border-radius:1in;position:fixed;margin:45 30;p{padding:60 140;--b:#243D83;+p{rotate:90deg;b{padding:30;--b:#fff;margin:50-30;b{margin:-190-30",
+    "bytes": 174,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-04-30",
+    "target": 120,
+    "css": "*{background:radial-gradient(1q,#5A9F48 15ch,#fff 0);*{border:solid#fff;border-width:0 5ch 5ch 0;margin:80 165;translate:26q 26q;rotate:45deg",
+    "bytes": 141,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-01",
+    "target": 121,
+    "css": "\u0026{background:#3F4869;border:solid#F4DA64;border-radius:0 0 2in 2in;border-width:0 50px 50px;margin:70 70 100;*{color:F4DA64;margin:15 55;box-shadow:0 45vh,164q -69q,-164q -69q",
+    "bytes": 175,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-02",
+    "target": 122,
+    "css": "*{background:#FEFAED;body{display:flex;margin:94 80}p{padding:40;background:#9A5DCB;translate:0 var(--r,5ch);border-radius:var(--b,5vw)0;+p{--r:-5ch;--b:5vw 5vw 0;+p{--r:5ch;--b:0 5vw",
+    "bytes": 183,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-03",
+    "target": 123,
+    "css": "*{background:#5C8D8F;border-radius:50%;+*{background:#F4DA64;color:F4DA64;margin:-130 70 170;box-shadow:0 75vw,50vw 50vh,-50vw 50vh;display:flex;p{padding:80;margin:50;box-shadow:0 75vw#5C8D8F",
+    "bytes": 192,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-04",
+    "target": 124,
+    "css": "*{background:#FAE29E;+*{background:linear-gradient(#4A9A86 90px,#0000 0 130px,#4C4C6B 0);margin:40 75;p{padding:25;margin:40;box-shadow:0 170px#FAE29E",
+    "bytes": 150,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-05",
+    "target": 125,
+    "css": "*{position:fixed;background:#E3DCD1;border-radius:1in 0 0 1in;border:solid#D95F5B;border-width:20 0 20 20;margin:80 130;padding:20 30;*{scale:-1;margin:20 10;p{padding:0 55;border-width:10;margin:80-110;+p{margin:-40 20;scale:1",
+    "bytes": 227,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-06",
+    "target": 126,
+    "css": "\u0026{background:#EBF6F0;border-bottom:72q solid#4E4B44;*{position:fixed;border-radius:50%;padding:20;color:4A9A86;box-shadow:7vw 51vw,79vw 51vw,90px 51vw 0 10px,254px 51vw 0 10px,43vw 51vw 0 5vw",
+    "bytes": 191,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-07",
+    "target": 127,
+    "css": "*{border:50vw solid var(--b,#2D3464);border-bottom:75vw solid#5AA4B7;margin:-140;p{position:fixed;--b:#0000;border-top:75vw solid#C0D6E7;margin:-120",
+    "bytes": 148,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-08",
+    "target": 128,
+    "css": "*{background:radial-gradient(1q,#5A9F48 var(--r,30vw),#0A4756);*{--r:53q;margin:90 140",
+    "bytes": 86,
+    "difficulty": "hard",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-09",
+    "target": 129,
+    "css": "*{background:radial-gradient(1q,#fff 15vw,var(--b,#4F77FF))0 30px;*{border:var(--t,10px)solid#4F77FF;margin:80 180 120;p{padding:10;margin:0-60;--b:#fff;--t:0;box-shadow:0-30px#fff",
+    "bytes": 180,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-10",
+    "target": 130,
+    "css": "*{background:var(--b,#594C94);*{--b:#F9DDC6;margin:70 40;p{position:fixed;--b:#594C94;margin:100 0;padding:10 160;box-shadow:35vw 0 var(--c,);color:594C94;+p{;padding:50;margin:0 40;+p{padding:30;margin:0 60;--b:#F9DDC6;border-radius:50%;--c:#F9DDC6",
+    "bytes": 249,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-11",
+    "target": 131,
+    "css": "*{rotate:90deg;background:linear-gradient(90deg,#4C6B50 50%,#F7EC7D 0);margin:30 0;*{margin:30 60;p{rotate:180deg;padding:30;margin:0 60;translate:0 60px",
+    "bytes": 153,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-12",
+    "target": 132,
+    "css": "*{background:#30383F;border:solid#ED6A9D;border-width:100 50 0;*{margin:0 60 60;border-color:#ED6A9D;border-width:0 60 60;p{position:fixed;border:none;border-radius:50%;padding:90;margin:-90-60;z-index:-1",
+    "bytes": 204,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-13",
+    "target": 133,
+    "css": "*{background:radial-gradient(1q,#D95F5B 15ch,#E3CC9E);*{margin:40;translate:0 110px;background:linear-gradient(90deg,#E3CC9E 35vw,#D95F5B 0 45vw,#E3CC9E 0);p{background:radial-gradient(1q,#D95F5B 5ch,#0000);padding:40;translate:-5pc -5ch;+p{translate:5pc -20ch",
+    "bytes": 260,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-14",
+    "target": 134,
+    "css": "*{background:#243D83;border-radius:1in;+*{background:#5AA4B7;margin:30 120;clip-path:polygon(0 5pc,50% 0,100%5pc,100%100%,0 100%);p{padding:40;translate:15ch 5pc;-webkit-box-reflect:left 5pc",
+    "bytes": 190,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-15",
+    "target": 135,
+    "css": "*{background:#F4DA64;*{background:#243D83;margin:110 180;translate:var(--t,0-70px);box-shadow:0 -10px#D95F5B;p{position:fixed;padding:40 20;--t:-60vh -5vw;+p{--t:-60vh 30px;+p{--t:-130px -5vw;padding:20 40;+p{--t:-90vh -20px",
+    "bytes": 224,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-16",
+    "target": 136,
+    "css": "*{background:#5A9F48;color:5A9F48;+*{background:#000;border-radius:1in;\u0026{margin:120 170;box-shadow:0-55px 0 10px,0 55px 0 10px,0 55px 0 5ch#000,0-55px 0 5ch#000,-30px 0 0 10px,30px 0 0 10px,30px 0 0 5ch#000,-30px 0 0 5ch#000;a{padding:45 25;margin:5",
+    "bytes": 249,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-17",
+    "target": 137,
+    "css": "*{background:#51A499;position:fixed;border:solid#EAC049;border-width:0 40 40 0;padding:20;margin:50 100;box-shadow:10px 10px 0 10px#282828;*{rotate:90deg;margin:-20 100;p{-webkit-box-reflect:right 5ch",
+    "bytes": 200,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-18",
+    "target": 138,
+    "css": "*{background:#F3EAD2;p{position:fixed;padding:50;background:#C0D6E7;margin:57 142;rotate:45deg;box-shadow:53q 0#D96C7B,0 0 0 53q#4C455B;clip-path:polygon(0 99%,99%0,150%0,150%150%,0 150%",
+    "bytes": 186,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-19",
+    "target": 139,
+    "css": "*{background:#BDE4C1;margin:10;+*{display:flex;p{padding:40;background:linear-gradient(var(--a,#4C455B 15pc,#D95F5B 0));margin:-10 20;border-radius:1in;translate:0 -50px}[a]{translate:0 50px;--a:#4C455B  40px,#D95F5B 0",
+    "bytes": 218,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-20",
+    "target": 140,
+    "css": "*{background:#282828;margin:15 40;body{display:flex;p{padding:40;background:linear-gradient(#F9DDC6 5pc,#0000 0 10pc,#F9DDC6 0);margin:0;color:282828}[a]{background:#0000;box-shadow:-30vw -50vw,30vw -50vw,-30vw 50vw,30vw 50vw;z-index:1",
+    "bytes": 235,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-21",
+    "target": 141,
+    "css": "*{background:#EDDF5A;color:C53025;border:22q solid;margin:50 180;*{margin:60-200;box-shadow:275q 85q,-275q 85q,-275q -85q,275q -85q",
+    "bytes": 131,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-22",
+    "target": 142,
+    "css": "*{background:#E3DCD1;*{margin:-70;background:repeating-linear-gradient(var(--t,90deg),#0000 35px,35px,#243D83 95px,95px,#0000 45mm)var(--u,70px);p{padding:200;--t:45deg;--u:46px",
+    "bytes": 177,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-23",
+    "target": 143,
+    "css": "\u0026{background:#BFE33A;border:5ch dashed#5A9F48;margin:30 80;display:flex;p{padding:20;background:#5A9F48;color:#BFE33A;margin:112-8;box-shadow:-5ch 5ch,15ch -15ch#5A9F48,20ch -20ch",
+    "bytes": 179,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-24",
+    "target": 144,
+    "css": "\u0026,body,[a]{border-radius:1in}[a]{border-color:#D95F5B}*{background:#D95F5B;border:var(--a,30px)solid#282828;margin:var(--b,40 170);*{--b:30-50;p{position:fixed;--b:-10-11;+p{--a:3px;padding:2 0;--b:35 17;+p{--b:-5 17;+p{rotate:90deg;--b:15-4;+p{--b:15 36",
+    "bytes": 254,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-25",
+    "target": 145,
+    "css": "*{background:var(--b,#243D83);margin:var(--r);*{--b:#E3CC9E;--r:130 0;p{position:fixed;--b:#0000;padding:120 80;border:50px solid#4A9A86;border-radius:2in;--r:-45-60}[a]{box-shadow:40px 0#243D83}+p{--r:-255-60;+p{border-color:243D83;--r:-45 200;+p{--r:-255 200",
+    "bytes": 260,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-26",
+    "target": 146,
+    "css": "\u0026{background:#186D37;p{border-block:5vw solid#48BF7D;background:#0000;position:fixed;margin:72 167;padding:50 25;+p{rotate:90deg;+p{scale:2;rotate:45deg;+p{rotate:-45deg",
+    "bytes": 169,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-27",
+    "target": 147,
+    "css": "*{position:fixed;background:#5AA4B7;border:30px solid#EBF6F0;margin:45 60;padding:0 60;body{color:5AA4B7;margin:0 30;padding:60 0;border-radius:30px 0 0;box-shadow:-90px 0,-60px 0,-30px 0}p{padding:20;border-radius:1in;margin:-10 30;+p{margin:-120 30",
+    "bytes": 250,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-28",
+    "target": 148,
+    "css": "\u0026{background:#6592CF;p{background:#EEB850;padding:35;margin:15 102 30}[a]{color:EEB850;position:fixed;padding:40 35;margin:-5 157;box-shadow:-55px 25vw,55px 25vw,0 50vw",
+    "bytes": 168,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-29",
+    "target": 149,
+    "css": "*{background:radial-gradient(1q,#282828 5ch,#F58220);*{margin:0;background:radial-gradient(1q at 0 230px,#282828 60px,#0000),radial-gradient(1q at 0 70px,#FFF 60px,#0000)}p{padding:150;scale:-1",
+    "bytes": 193,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-30",
+    "target": 150,
+    "css": "\u0026{background:#594C94}p{background:#BFE33A;height:var(--h,80);border-radius:var(--r,10px);margin:var(--m,20 292 0 12)}[a]{--h:40;--m:-60 232 0 12}[b]{--r:0 10px;--h:40;--m:-20 192 0 12}[d]{--h:100;--m:0 172}[e]{scale:-1;--m:0 12 0 192;+[e]{--m:-20 12 0 232;+[e]{--m:-60 12 0 292",
+    "bytes": 277,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-05-31",
+    "target": 151,
+    "css": "*{position:fixed;background:#F3AC3C;*{margin:var(--r,35 95);background:#282828}p{padding:20 10;+p{--r:155 95;+p{rotate:90deg;--r:95 155;+p{--r:95 35;+p{rotate:135deg;--r:24;+p{--r:166;+p{rotate:45deg;--r:166 24;+p{--r:24 166",
+    "bytes": 224,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-01",
+    "target": 152,
+    "css": "*{margin:50 140}\u0026,dl{background:#9076D8;margin:0;\u003e*,p{padding:30;border:30px solid#fff;border-radius:1in;p{margin:-60}dl{box-shadow:-5ch -5vw 0 5vw#9076D8",
+    "bytes": 154,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-02",
+    "target": 153,
+    "css": "\u0026{background:radial-gradient(1q,#23384B 32q,#D36354 0 53q,#D9D9D9 0 74q,#23384B);*{width:30;height:60;box-shadow:59vh 40vw#23384B",
+    "bytes": 129,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-03",
+    "target": 154,
+    "css": "\u0026{background:#D95362;\u003e*{border:70px solid#C0D6E7;border-bottom-color:#2D3464;margin:0 129.5 160;p{position:fixed;rotate:45deg;padding:50;background:#2D3464;margin:40-50;color:C0D6E7;box-shadow:25vw 0,0 25vw,25vw 25vw,-38vh -14px,-14px -38vh",
+    "bytes": 240,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-04",
+    "target": 155,
+    "css": "*{background:radial-gradient(1q at var(--p,50vw 0),#5A9F48 25vw,#282828 0 130px,#5A9F48 0);*{margin:50 150 0;--p:50px 5pc\n```",
+    "bytes": 125,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-05",
+    "target": 156,
+    "css": "[a],*{background:#394257}body{display:flex;margin:14 0}p{background:radial-gradient(1q at 50vw 50vw,#0000 130px,#EED9D9 0 170px,#0000 0);border:solid#EED9D9;width:110;border-width:0 40 40 0}[a]{width:100;border-width:40 0}[b]{scale:-1 1",
+    "bytes": 236,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-06",
+    "target": 157,
+    "css": "*{background:var(--b,#2D3464)}body{margin:45 95;padding:100;--b:radial-gradient(#C0D6E7 25px,#0000 0);background-size:70px 70px}p{color:D95362;padding:25;margin:-20;box-shadow:0 70px,70px 0,30vw 0,40vw 0,45vw 0;+p{scale:-1;margin:-50-20\n```",
+    "bytes": 240,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-07",
+    "target": 158,
+    "css": "*{border:var(--b,0)solid;body{background:#5AA4B7;margin:70 120;--b:5vw;-webkit-box-reflect:left -40vw}[a]{box-shadow:-15vw -70px,15vw 70px}p{position:fixed;border-radius:1in;--b:10px;margin:50 20;width:60;+p{rotate:90deg;+p{rotate:45deg\n```",
+    "bytes": 240,
+    "difficulty": "easy",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-08",
+    "target": 159,
+    "css": "p{padding:20;margin:60-110;scale:1 .5}*{background:radial-gradient(1q,#F2EAA8 4vw,var(--c,#EE7667)0 106q,#F2EAA8);*{--c:;margin:30 170;border:5vw solid#F2EAA8",
+    "bytes": 158,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
+    "date": "2025-06-09",
+    "target": 160,
+    "css": "*{background:#4F55A2;*{border-radius:33q;background:#DCC6A8;margin:150 105 55}p,a{a{margin:-50 165}position:fixed;padding:40 15;margin:-75-25;border:11q solid#4F55A2",
+    "bytes": 165,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-10",
+    "target": 161,
+    "css": "*{p{margin:-140 0}background:#EEB850;border:solid#243D83;border-width:20 20 0;margin:110 50;*{margin:40 20 0;height:60",
+    "bytes": 118,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-11",
+    "target": 162,
+    "css": "*{background:#EED9D9;+*{margin:80 50;+*{margin:-140 110}dl,p{background:#66284A}dl{width:80;height:140;border-radius:10px}img{border-radius:50%;padding:25;margin:15}p{width:60;height:10;margin:15 10;border-block:10px solid#EED9D9",
+    "bytes": 229,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-12",
+    "target": 163,
+    "css": "*{background:radial-gradient(1q at 50%0,#5AA4B7 84.5q,var(--b,#2D3464)5em);p{--b:#0000;height:80;margin:80;+p{margin:-80;scale:-1",
+    "bytes": 129,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-13",
+    "target": 164,
+    "css": "*{background:var(--b,#EBF6F0);p{+p{scale:-1;margin:0-3}img{--b:#D95362;padding:65;margin:12-3}width:387;height:142;margin:0;--b:radial-gradient(1q at 257px 100%,#0000 5em,#D95362 0 130px,#0000",
+    "bytes": 192,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-14",
+    "target": 165,
+    "css": "*{background:#6592CF;border:solid#F7CB71;border-width:0 0 20 20;margin:var(--m,60 90);+*,p,p+p+p{scale:-1}*+*{--m:0 0 0 20}p{position:fixed;--m:20 0 0 20;width:120;height:100}p+p{scale:1;--m:40 0 0 20;width:80;height:60;+p{--m:60;width:40;height:20",
+    "bytes": 248,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-15",
+    "target": 166,
+    "css": "*{--a:#334F9F;--b:#97AE41;margin:0;background:linear-gradient(var(--a)90px,var(--b)0 130px,var(--a)0 170px,var(--b)0 70vh,var(--a)0);*{margin:0 40;--a:#97AE41;--b:#334F9F",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-16",
+    "target": 167,
+    "css": "*{background:#D95362;+*{display:flex;flex-flow:wrap;margin:28 36}[b]{background:#D9D9D9}p{padding:37;margin:0}+p+p{padding:0;border:solid#0000;border-top-color:#D9D9D9;border-width:80 164}img{padding:45;border-radius:50%",
+    "bytes": 220,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-17",
+    "target": 168,
+    "css": "\u0026{background:#F4DCBF;margin:110 100;border:solid#556D7F;border-width:10 80;img{color:3C342A;border:10px dashed#556D7F;margin:12 2;scale:2 1;box-shadow:-30px -5vw,-30px 5vw,30px -5vw,30px 5vw",
+    "bytes": 190,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-18",
+    "target": 169,
+    "css": "\u0026{background:#FADE8B}*{border:solid#D24444;border-width:40 var(--t,40 40)0;margin:40 145;*{margin:50 0;--t:0",
+    "bytes": 108,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-19",
+    "target": 170,
+    "css": "*{border:var(--b,solid)var(--d,#5AA4B7);border-width:var(--c,20);*{--b:dotted;--c:0 100;padding:30;margin:80 50;p{--b:solid;--c:10;--d:#FFF;margin:0-100;padding:10 90;border-radius:1in;background:linear-gradient(90deg,#FFF 5vw,#5AA4B7 0)50px 0/60px",
+    "bytes": 248,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-20",
+    "target": 171,
+    "css": "*{background:#fff;border:solid var(--t,#EEB850);border-width:var(--w,20 60 60 20);--t:#EEB850;margin:0;+*,img{--t:#6592CF;--w:0 0 0 60;img{margin:100 0 0;--w:30 130",
+    "bytes": 164,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-21",
+    "target": 172,
+    "css": "\u0026{background:#6592CF}p{border:80px solid#0000;border-top-color:var(--t,#F7CB71);width:0;margin:var(--m,150 92);+p{--m:-350 132;+p{scale:-1;--m:70 92;+p{--m:-190 132;+p{--t:#fff;scale:.25;--m:90 52;+p{scale:-.25;--m:-290 52",
+    "bytes": 222,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-22",
+    "target": 173,
+    "css": "*{background:#48BF7D;*{border:50px solid#394257;margin:100 108;clip-path:polygon(23vw 0,39vh 25px,39vh 0,167px 50%,39vh 100%,39vh 25px,32vh 46px,32vh 3lh,39vh 75px,23vw 100%,42px 50%",
+    "bytes": 182,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-23",
+    "target": 174,
+    "css": "*{background:radial-gradient(1q,#D24444 32q,#FADE8B)no-repeat,#5A9F48;border-radius:10vh;border:10vh solid#FADE8B;margin:70 140;*{margin:-10-50",
+    "bytes": 143,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-24",
+    "target": 175,
+    "css": "\u0026,p{background:#F7BED9;border:solid#EC007B;border-width:var(--t,50 );margin:90-50}p{--t:50 50 0;padding:25;margin:-108 142;+p{translate:-50px 8em;--t:0 50 50 50",
+    "bytes": 160,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-25",
+    "target": 176,
+    "css": "*{background:var(--b,#B6EBE7);*{margin:var(--m,70)120;+*{--b:#5E2BB7;border-radius:0 0 0 5em;box-shadow:inset -20vw 20vw#9382E4;p{padding:20;--m:0",
+    "bytes": 146,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-26",
+    "target": 177,
+    "css": "\u0026,p{border:dotted#D9D9D9}\u0026{background:#243D83;margin:126 162;height:1;border-width:0 20;p{border-width:104;margin:-50 -152;padding:58;a{position:fixed;padding:37.5 34;margin:-105-126;background:#D9D9D9;border-radius:0 0 1in 1in;+a{margin:-105 58",
+    "bytes": 245,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-27",
+    "target": 178,
+    "css": "*{background:#394257}p{border:solid#D24444;border-width:40 0 0 40;padding:40;margin:20 192-60 72}[a]{scale:-1 1;margin-left:192",
+    "bytes": 127,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2025-06-28",
+    "target": 179,
+    "css": "*{background:#fff;border:solid;border-width:var(--w,80);border-color:var(--c,0#5A8D9A 0#9CBBC2);margin:var(--m,-80 120);*{position:fixed;--m:80-170;--w:45;padding:25 125;--c:#9CBBC2;p{--m:-70-90-70 0;padding:25 40;--w:45 0;--c:#5A8D9A;+p{--m:-70-80;--c:#749FAA",
+    "bytes": 260,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  }
+]

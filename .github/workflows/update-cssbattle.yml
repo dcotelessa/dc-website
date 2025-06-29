@@ -40,8 +40,8 @@ jobs:
         node-version: '18'
         
     - name: Install Astro dependencies
-      run: npm install
-      
+      run: npm install --legacy-peer-deps
+
     - name: Build Astro site
       run: npm run build
       

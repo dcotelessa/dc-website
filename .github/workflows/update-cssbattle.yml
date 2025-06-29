@@ -2,8 +2,8 @@ name: Update CSS Battle Solutions
 
 on:
   repository_dispatch:
-    types: [cssbattle-update]  # Matches your event_type
-  workflow_dispatch: # Manual trigger option
+    types: [cssbattle-update]
+  workflow_dispatch:
 
 jobs:
   update-solutions:
@@ -39,11 +39,16 @@ jobs:
       with:
         node-version: '18'
         
+    - name: Install pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 8
+        
     - name: Install Astro dependencies
-      run: npm install --legacy-peer-deps
-
+      run: pnpm install --frozen-lockfile
+      
     - name: Build Astro site
-      run: npm run build
+      run: pnpm run build
       
     - name: Commit and push changes
       run: |

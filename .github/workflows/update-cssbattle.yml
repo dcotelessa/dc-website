@@ -43,7 +43,7 @@ jobs:
       uses: pnpm/action-setup@v4
         
     - name: Install Astro dependencies
-      run: pnpm install --frozen-lockfile
+      run: pnpm install --no-frozen-lockfile
       
     - name: Build Astro site
       run: pnpm run build

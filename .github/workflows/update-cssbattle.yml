@@ -1,12 +1,9 @@
 name: Update CSS Battle Solutions
 
-# Trigger on push to daily-targets in solutions repo
 on:
   repository_dispatch:
-    types: [cssbattle-update]
-  workflow_dispatch: # Manual trigger
-  schedule:
-    - cron: '0 9 * * *' # Daily at 9 AM UTC (optional backup)
+    types: [cssbattle-update]  # Matches your event_type
+  workflow_dispatch: # Manual trigger option
 
 jobs:
   update-solutions:
@@ -23,7 +20,7 @@ jobs:
       with:
         go-version: '1.21'
         
-    - name: Install dependencies
+    - name: Install Go dependencies
       run: |
         cd scripts
         go mod download
@@ -31,6 +28,8 @@ jobs:
     - name: Run CSS Battle sync
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_OWNER: dcotelessa
+        GITHUB_REPO: cssbattle-solutions
       run: |
         cd scripts
         go run cssbattle-sync.go
@@ -52,5 +51,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git diff --staged --quiet || git commit -m "Update CSS Battle solutions - $(date)"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update CSS Battle solutions - $(date)"
+          git push
+        fi

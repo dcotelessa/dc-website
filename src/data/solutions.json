@@ -1951,5 +1951,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-06-30",
+    "target": 181,
+    "css": "*{background:#FADE8B;margin:50 45;border-inline:53q var(--c,dotted)#D24444;*,p{margin:0 15;border-color:#556D7F;p{padding:100 0;border-width:25;--c:dashed",
+    "bytes": 154,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

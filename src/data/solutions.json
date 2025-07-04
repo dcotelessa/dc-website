@@ -1987,5 +1987,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-04",
+    "target": 185,
+    "css": "p{margin:-10 57;padding:23% 0;border-inline:var(--b,60px)solid#D9D9D9;+p{margin:10 137;--b:55px;img{background:radial-gradient( at bottom,#D9D9D9 0 39.3%,#000 0 70.7%,#0000 0);padding:67.5 135;margin:-243-135",
+    "bytes": 208,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

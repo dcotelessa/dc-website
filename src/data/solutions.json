@@ -2023,5 +2023,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-08",
+    "target": 189,
+    "css": "*{--t:32q solid#8CB457;background:#085328}\u0026{margin:30 50;border-block:var(--t);*{height:180;margin:0 30;border-inline:var(--t",
+    "bytes": 125,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

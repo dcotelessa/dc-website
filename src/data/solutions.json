@@ -2032,5 +2032,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-09",
+    "target": 190,
+    "css": "*{color:#2E312B;background:#D9D9D9;box-shadow:30vw 30vw 0 5ch,-30vw 30vw 0 5ch,30vw -30vw 0 5ch,-30vw -30vw 0 5ch;*{background:#2E312B;padding:16;margin:110 40%;border:5vw solid#7AA70A",
+    "bytes": 184,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -2059,5 +2059,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-12",
+    "target": 193,
+    "css": "\u0026{outline:5ch solid#504B72}*{--a:#FFFBCC;--b:#504B72;margin:40;background:linear-gradient(var(--a)15vw,var(--b)0 5em)0 0/1q 5em;*{margin:0 100;--a:#504B72;--b:#FFFBCC",
+    "bytes": 166,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

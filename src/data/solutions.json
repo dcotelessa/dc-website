@@ -2068,5 +2068,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-13",
+    "target": 194,
+    "css": "\u0026{background:conic-gradient(at 30px 5em,#48BF7D 0 75%,#FFF 75%100%)5vh 5vh/42.5%95px",
+    "bytes": 84,
+    "difficulty": "hard",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

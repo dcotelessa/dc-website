@@ -2095,5 +2095,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-16",
+    "target": 197,
+    "css": "\u0026{background:#32295A;color:48BF7D;box-shadow:0 var(--a,5vh 0 25px);}p{position:fixed;margin:102 167;padding:25;border-radius:9in;box-shadow:0 var(--a,5vh 0 25px);+p{padding:100;margin:2 92;--a:5ch 0 50px",
+    "bytes": 203,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -2158,5 +2158,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-23",
+    "target": 204,
+    "css": "*{background:var(--t,#C05F6A);*{--t:#F2EAA8;margin:45 65 105}p{box-shadow:0 60px,-250px 30px,250px 30px,-230px 90px,230px 90px,0 40vh,-70vh 50vh,70vh 50vh;color:C05F6A;--t:#C05F6A;translate:0 30px;padding:15;margin:0;+p{margin:-60 70;width:0;height:180;box-shadow:25vw 0",
+    "bytes": 270,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

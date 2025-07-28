@@ -2203,5 +2203,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-28",
+    "target": 209,
+    "css": "\u0026,\u0026\u003e*{border-radius:50%;background:#EBE77E;margin:60 110}*{border:5vw solid#7E6293;*{margin:20}p{border-width:10;margin:-30 20;height:40",
+    "bytes": 136,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

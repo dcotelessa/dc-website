@@ -2221,5 +2221,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-30",
+    "target": 211,
+    "css": "*{border:0 solid#FEFF58}\u0026,p{background:#48BF7D;border-width:0 0 30 30}\u0026{border-radius:2in;border-width:30;margin:50 85;p{height:170;margin:-38 2-38 92;box-shadow:42q 0#48BF7D,-32q 0#3E5AA9",
+    "bytes": 188,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

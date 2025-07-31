@@ -2230,5 +2230,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-07-31",
+    "target": 212,
+    "css": "[b]{border-width:0 50 0 0}[a]{border-width:0 50 50}p{color:F0CD48;margin:var(--t,20)102 80;height:80;border:dotted;+p+p{--t:-345;border:solid;+p{--t:-85",
+    "bytes": 152,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

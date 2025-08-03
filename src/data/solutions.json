@@ -2257,5 +2257,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-08-03",
+    "target": 215,
+    "css": "*{background:#243D83;color:fff;margin:80 190 140 130;box-shadow:0 0 0 5vw,60px 60px 0 5vw;*{margin:20;color:243D83",
+    "bytes": 114,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

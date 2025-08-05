@@ -2275,5 +2275,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-08-05",
+    "target": 217,
+    "css": "\u0026{background:#FEFF58;border-block:25vw solid#423F36;*{width:240;height:60;background:var(--b,#D94E4E);margin:20-115;border-radius:var(--a,50%);position:fixed;\u003e*{--b:#3E5AA9;margin:0 390;\u003e*{--b:#423F36;height:100;--a:5vw;rotate:45deg;margin:100-145",
+    "bytes": 247,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

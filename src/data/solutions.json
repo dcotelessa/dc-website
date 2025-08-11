@@ -2329,5 +2329,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-08-11",
+    "target": 223,
+    "css": "*{background:var(--t,#B673A6);border-radius:30px}[a]{border:30px solid#D9D9D9;padding:60}p{--t:#D9D9D9;width:40;height:40;margin:130 172;+p{--t:#619EBF;margin:-150 242;+p{margin:-220 242 0-78;+p{margin:-210 92;+p{margin:170 252",
+    "bytes": 227,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

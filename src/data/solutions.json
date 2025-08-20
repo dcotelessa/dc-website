@@ -2410,5 +2410,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-08-20",
+    "target": 232,
+    "css": "*{background:#414B81;*{background:#FADE8B;margin:125 160;height:50}[a]{margin:-175 160;scale:1-1}p{border-radius:1in 1in 1in 0;width:50;translate:-430%-79q;scale:2;+p{margin:-25-20;scale:-2",
+    "bytes": 189,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

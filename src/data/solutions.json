@@ -2428,5 +2428,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-08-22",
+    "target": 234,
+    "css": "\u0026{background:linear-gradient(90deg,#fff 5pc,#F88889 0 130px,#fff 0)0 0/47.5%;*{border-top:53q solid;border-radius:1in;margin:125 50",
+    "bytes": 131,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

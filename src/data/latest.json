@@ -1,8 +1,8 @@
 {
-  "date": "2025-08-29",
-  "target": 241,
-  "css": "\u0026{background:#7C7565;color:F1E1BE;border:75px solid;margin:30 85;scale:1.13 1;box-shadow:-122q 15em,122q -15em",
-  "bytes": 110,
+  "date": "2025-08-30",
+  "target": 242,
+  "css": "*{background:#A1E8A7;color:D2495C;border:53q solid;margin:50 75;+*{margin:25 99 99-25;scale:.5;box-shadow:25ch 0,0 25ch,25ch 25ch",
+  "bytes": 129,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

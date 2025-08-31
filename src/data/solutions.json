@@ -2509,5 +2509,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-08-31",
+    "target": 243,
+    "css": "*{coLor:fff;scAle:.387;box-SHadow:69vh 69vh,-69vh -69vh\n\u003c/style\u003e",
+    "bytes": 64,
+    "difficulty": "hard",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

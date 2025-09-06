@@ -1,9 +1,9 @@
 {
-  "date": "2025-09-05",
-  "target": 248,
-  "css": "\u0026{color:FEFF58;margin:30%40%;rotate:15deg;box-shadow:0 0 0 74q,0 0 0 2in#CA8E75}p{rotate:-30deg;scale:1.849 1;box-shadow:-6px 19px 0 60px#414B81}dt{box-shadow:0-22px 0 32q;scale:.645-1",
-  "bytes": 184,
-  "difficulty": "medium",
+  "date": "2025-09-06",
+  "target": 249,
+  "css": "*{background:#142932;border:4ch solid#00D47E;border-radius:4em;margin:35 45;height:56;+*{p{+p{width:30}position:fixed;margin:60 80;border-width:0 31 30 29;height:110}margin:-2-1;width:250;height:60;font:0'",
+  "bytes": 205,
+  "difficulty": "easy",
   "screenshot": "target-1-comparison.png",
   "has_image": true
 }

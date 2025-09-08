@@ -2581,5 +2581,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-08",
+    "target": 251,
+    "css": "\u0026{zoom:10;background:#FAE29E}p{+p{margin:-29 1;+p{margin:16 4}}background:#4A9A86;width:3;height:10;margin:16-2;box-shadow:19px -2vh#4A9A86",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

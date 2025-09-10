@@ -2599,5 +2599,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-10",
+    "target": 253,
+    "css": "*{background:#B0C1F0;*{margin:var(--t,100);color:#3E5AA9}dl{+dl{+dl{transform:skew(0);box-shadow:0 9ch;height:20;--t:-132 0}--t:-100 32}--t:0-187}p{--t:0 80;width:42;height:50;transform:skew(45deg);box-shadow:35vh 0,3em 0}[b]{scale:1}[a]{scale:1-1",
+    "bytes": 247,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

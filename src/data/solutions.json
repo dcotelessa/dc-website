@@ -2608,5 +2608,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-11",
+    "target": 254,
+    "css": "*{background:#23384B}p{margin:80 222-270  82;height:120;border:solid#F0CD48;border-width:var(--t,20 20) 0 20;border-radius:1in 1in 0 0}[a]{margin:-80 142;scale:-1;height:0;--t:50 50;box-shadow:0-5ch 0 5ch#23384B}[b]{margin:130 82 0 222",
+    "bytes": 235,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

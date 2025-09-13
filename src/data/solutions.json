@@ -2626,5 +2626,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-13",
+    "target": 256,
+    "css": "\u0026{background:linear-gradient(90deg,#240D29 35vh,#0000 0 312q,#240D29 0)0 35vw/80%5vw repeat-x#F1E1BE}p{margin:25 177 140;height:50;color:240D29;box-shadow:74q 10vh,-74q 10vh,inset 1in 0;+p{height:20vh;scale:-1",
+    "bytes": 209,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

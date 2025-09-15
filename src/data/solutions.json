@@ -2644,5 +2644,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-15",
+    "target": 258,
+    "css": "\u0026{background:#FFF1F1;border-inline:53q solid#F2A3AB;margin: 60;*{margin:0 45 0 35;background:radial-gradient(1q at 25vw,#0000 5ch,#84B9C7 0 5lh,#0000",
+    "bytes": 149,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "date": "2025-09-17",
-  "target": 260,
-  "css": "*{background:radial-gradient(1q,#4A9A86 70vh,#FAE29E);+\u0026{-webkit-box-reflect:left -4in;background:129q radial-gradient(1q at 0 50%,#0000,110px,#FAE29E 0 35vw,#0000",
-  "bytes": 163,
+  "date": "2025-09-18",
+  "target": 261,
+  "css": "*{background:repeating-conic-gradient(#00D47E 0 25%,#23384B 0 var(--t,0))0/5pc;p{--t:50%;width:360;height:80;margin:20 12;+p{margin:100 12;scale:-1",
+  "bytes": 147,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

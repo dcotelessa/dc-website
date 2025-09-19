@@ -1,9 +1,9 @@
 {
-  "date": "2025-09-18",
-  "target": 261,
-  "css": "*{background:repeating-conic-gradient(#00D47E 0 25%,#23384B 0 var(--t,0))0/5pc;p{--t:50%;width:360;height:80;margin:20 12;+p{margin:100 12;scale:-1",
-  "bytes": 147,
-  "difficulty": "medium",
+  "date": "2025-09-19",
+  "target": 262,
+  "css": "\u0026{background:conic-gradient(at 10%50%,#0000 75%,#3E4071 0)45vw 10vh,linear-gradient(#3E4071 5ch,#0000 0)50%230px/70%repeat-y#EDDF5A;p{margin:52 122;height:100;rotate:315deg;border:solid#3E4071;border-width:0 0 5ch 5ch",
+  "bytes": 217,
+  "difficulty": "easy",
   "screenshot": "target-1-comparison.png",
   "has_image": true
 }

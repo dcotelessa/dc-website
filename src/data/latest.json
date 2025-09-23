@@ -1,8 +1,8 @@
 {
-  "date": "2025-09-22",
-  "target": 265,
-  "css": "*{background:#161E44;color:FEF6E2;border:solid;border-width:40 var(--t,65);*{--t:35 30 0;margin:100 0 0 150;box-shadow:0-180q;-webkit-box-reflect:left 10vh",
-  "bytes": 155,
+  "date": "2025-09-23",
+  "target": 266,
+  "css": "*{background:#F7FCDC;border:2.5ch solid#9F6766;border-bottom:0;margin:20 60;*{margin:40 30;p{background:#8AB8B6;margin:-20-70;height:150;font:0'",
+  "bytes": 144,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

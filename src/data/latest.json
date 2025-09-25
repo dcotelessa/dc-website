@@ -1,9 +1,9 @@
 {
-  "date": "2025-09-24",
-  "target": 267,
-  "css": "*{margin:35 40;background:#7DDDEB;p{color:9A5DCB;width:30;height:30;box-shadow:inset 5ch 0,5ch 0,0 5ch,5vw 5ch,5ch 5ch;+p{margin:60 80;rotate:attr(t deg);+p{margin:-50 170;+p{margin:-120 130",
-  "bytes": 190,
-  "difficulty": "medium",
+  "date": "2025-09-25",
+  "target": 268,
+  "css": "\u0026{background:#3E5AA9;border:solid#B0C1F0;border-width:50 100;box-shadow:inset 0 0 0 60px#FAE29E}h3{background:conic-gradient(at 35vh 74q,#0000 0,#3E5AA9 0 135deg,#0000 0),conic-gradient(at 58q 96q,#0000 180deg,#3E5AA9 0 315deg,#0000 0);height:160;border-radius:50%;margin:20 12",
+  "bytes": 277,
+  "difficulty": "easy",
   "screenshot": "target-1-comparison.png",
   "has_image": true
 }

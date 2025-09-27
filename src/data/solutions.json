@@ -2752,5 +2752,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-27",
+    "target": 270,
+    "css": "*{*{margin:80 90;box-shadow:-35vw -5pc,0-5pc,35vw -5pc,-35vw 5pc,0 5pc,35vw 5pc}color:EDDF5A}\u0026{border:solid;border-width:50 70;background:linear-gradient(#E8625E 50%,#333 0",
+    "bytes": 172,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

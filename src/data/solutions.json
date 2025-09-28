@@ -2761,5 +2761,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-28",
+    "target": 271,
+    "css": "\u0026{background:#6255AA;margin:-50 0;border:35vw solid#EA9A52;p{+p{margin:-120 32;scale:-1}width:160;height:120;margin:-8-88;clip-path:polygon(50%0,0 50%,50%100%,100%50%);background:linear-gradient(90deg,#6255AA 50%,#fff 0",
+    "bytes": 219,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

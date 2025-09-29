@@ -2770,5 +2770,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-09-29",
+    "target": 272,
+    "css": "*{background:var(--t,#F9FAFD);*{p{+p{margin:185 162;scale:2}position:fixed;--t:#4F73D9;border-radius:attr(r px);width:60;height:60;margin:82 162}--t:#A7C2FA;clip-path:circle(5pc at 50%",
+    "bytes": 184,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "date": "2025-10-11",
-  "target": 284,
-  "css": "\u0026{border:5ch solid#7E6293;background:5ch/30vw 1q radial-gradient(1q,#EBE77E 5vw,#0000),10px 50px/60px 60px radial-gradient(1q,#DE817E 5vw,#7E6293",
-  "bytes": 145,
+  "date": "2025-10-12",
+  "target": 285,
+  "css": "*{background:#4763B1;margin:91 141;border:3.08ic solid;border-image:conic-gradient(#FFF);\u003e\u0026{margin:-10;rotate:45deg;font:0'",
+  "bytes": 123,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

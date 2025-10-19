@@ -2950,5 +2950,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-10-19",
+    "target": 292,
+    "css": "\u0026{*{margin:0}background:#1A4341}dt{+dt{scale:-1}height:85;background:radial-gradient(1q at 78.8%90q,#0000 53q,#5A9F48 0 5em,#0000)}p{margin:45 135;box-shadow:inset 32q 32q#5A9F48;height:130}[a]{font:0'",
+    "bytes": 201,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

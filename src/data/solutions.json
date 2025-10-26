@@ -3013,5 +3013,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-10-26",
+    "target": 299,
+    "css": "*{margin:5;height:70;background:repeat-x#3F4869 radial-gradient(1q at 50%var(--t,150%),#DE6B67 35vh,#0000);*{--t:50%;margin:0;*{--t:-50%}translate:0 157%",
+    "bytes": 153,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

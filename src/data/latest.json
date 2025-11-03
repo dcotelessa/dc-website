@@ -1,9 +1,9 @@
 {
-  "date": "2025-11-02",
-  "target": 306,
-  "css": "\u0026{*{margin:0 140 80;box-shadow:0 5ch,-115px 5ch,115px 5ch}color:F0CD48;border-block:5ch solid;margin:50 40;background:space#243d83 repeating-linear-gradient(90deg,#0000 30px,#F0CD48 0 60px,#0000 0 145px",
-  "bytes": 202,
-  "difficulty": "easy",
+  "date": "2025-11-03",
+  "target": 307,
+  "css": "\u0026{background:radial-gradient(1q,#E38F66 25vh,#62306d);p{+p+p{height:24}height:80;border-radius:1in;color:E38F66;margin:0 180;box-shadow:0 attr(t q),24q attr(t q),-24q attr(t q",
+  "bytes": 175,
+  "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true
 }

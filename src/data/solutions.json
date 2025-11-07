@@ -3121,5 +3121,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-11-07",
+    "target": 311,
+    "css": "\u0026{background:#fc62;p{+p{color:DA6C8E;rotate:90deg}color:81D2B0;padding:45 10;border-radius:1in;position:fixed;margin:97 182;box-shadow:37Q -74Q 0 5vh,-37Q 74Q 0 5vh",
+    "bytes": 164,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

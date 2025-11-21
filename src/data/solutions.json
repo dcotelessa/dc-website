@@ -3247,5 +3247,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-11-21",
+    "target": 325,
+    "css": "\u0026{background:#A455D9;margin:82 142;*{color:#FFF6;border-radius:1in;box-shadow:inset 1in 1in,30vw 74q,-30vw 74q,-30vw -74q,30vw -74q,0 35vw,0-35vw",
+    "bytes": 145,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

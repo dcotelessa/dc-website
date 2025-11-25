@@ -3283,5 +3283,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-11-25",
+    "target": 329,
+    "css": "\u0026{background:#AADBF7;color:243D83;margin:95 145;box-shadow:inset 2in 2in#328FC1,0 0 0 5vw,116q 5ch 0-5ch#328FC1,-116q 5ch 0-5ch#328FC1,116q 5ch 0-5vw,-116q 5ch 0-5vw",
+    "bytes": 165,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

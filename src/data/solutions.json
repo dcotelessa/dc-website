@@ -3319,5 +3319,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-11-29",
+    "target": 333,
+    "css": "\u0026{background:#FAE7DF}p{+p{margin:15 92 0 172}margin:15 232-75 92;height:60;color:BE6565;box-shadow:inset 1in 1in,attr(x vw,35vw)70px,0 35vw,attr(x vw,35vw)70vh",
+    "bytes": 159,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -3346,5 +3346,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-02",
+    "target": 336,
+    "css": "\u0026{--t:radial-gradient(1q,#0000 5ch,#222 0 74q,#0000);background:var(--t)-32q,var(--t)32q,conic-gradient(at 22q 90q,#696448 60%,#fff 0)5cm 1in",
+    "bytes": 141,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

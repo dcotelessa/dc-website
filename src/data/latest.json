@@ -1,8 +1,8 @@
 {
-  "date": "2025-12-03",
-  "target": 337,
-  "css": "\u0026{background:#C8AD17}[b]{border-radius:32q 32q 0 0;margin:-95 82;height:70}p{border:5vw solid#222;margin:55 132;height:40;background:#eee",
-  "bytes": 137,
+  "date": "2025-12-04",
+  "target": 338,
+  "css": "\u0026{background:#E8AD6D;*{color:DE6B67;margin:70 120;border:solid#2F5A76;border-width:30 60;box-shadow:96q 0 0-32q,-96q 0 0-32q",
+  "bytes": 124,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

@@ -3400,5 +3400,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-08",
+    "target": 342,
+    "css": "*{color:2A4CAC;border:solid;background:#7DDDEB;border-width:0 var(--t,30);margin:40 30;*{margin:50-30 110;outline:5vw solid#7DDDEB;--t:170",
+    "bytes": 138,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

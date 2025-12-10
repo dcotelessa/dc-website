@@ -3418,5 +3418,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-10",
+    "target": 344,
+    "css": "\u0026{color:#FFF6;margin:125 150;background:#202F8E;height:0;border:19pt solid;border-radius:1in;box-shadow:-138q 0#fff,138q 0}p{height:20;background:#fff;margin:35 97 35-163",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

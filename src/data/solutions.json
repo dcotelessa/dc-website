@@ -3481,5 +3481,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-17",
+    "target": 351,
+    "css": "*{background:#45b45b;color:45B45B}p{+p{+p{width:20;box-shadow:11Q -328Q,5ch -328Q#fabc0d,74Q -328Q#e3473c}height:20}background:#194247;margin:60 62;height:180}[a]{border-radius:5vw}[b]{width:80;box-shadow:180Q -201Q#fabc0d,180Q -40vw#e3473c,138Q -40vw#e3473c,170px -130px,30vh -130px",
+    "bytes": 283,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

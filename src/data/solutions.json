@@ -3535,5 +3535,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-23",
+    "target": 357,
+    "css": "*{background:#DACFA3;margin:0;*{p{color:2D3464;height:100;margin:-10 160;background:#2D3464;box-shadow:0 29mm,0 55vw}background:0 0/50vw radial-gradient(1q,#D95362 5ch,#0000",
+    "bytes": 173,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -3553,5 +3553,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-25",
+    "target": 359,
+    "css": "\u0026{background:#11092D}[b]{--t:#1BBC63}[c]{--t:#0F6B38}p{margin:60 122-40;height:20;background:var(--t,#FFCA00);border-inline:#11092D solid attr(f vh,20vh",
+    "bytes": 152,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

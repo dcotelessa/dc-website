@@ -3607,5 +3607,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2025-12-31",
+    "target": 365,
+    "css": "\u0026{*{background:linear-gradient(#F9DDC6 5ch,#0000 0 35vw,#F9DDC6 0);margin:60 40}p{+p{+p{margin:140 60}margin:-140 60}position:fixed;margin:0 220;padding:90 20;background:linear-gradient(#9D92C8 5ch,#F9DDC6 0 35vw,#9D92C8 0)}background:#9d92c8",
+    "bytes": 242,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

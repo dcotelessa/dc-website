@@ -3688,5 +3688,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-01-10",
+    "target": 10,
+    "css": "p{+p{rotate:-45deg}margin:140 72-160;height:20;border-inline:15vw solid#E25C57;rotate:45deg}\u0026{--t:radial-gradient(1q,#E25C57 5vh,#0000);background:conic-gradient(at 15vw 15vw,#0000 75%,#E25C57 0)180q 30vw,var(--t)0 5vh/100%5lh,var(--t)5vw/45vw#F4DA64",
+    "bytes": 250,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

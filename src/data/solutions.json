@@ -3706,5 +3706,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-01-12",
+    "target": 12,
+    "css": "\u0026{border-radius:2in}*{background:#FADE8B;border:64q solid#222;margin:15%0 0;box-shadow:0 90vh 0 50vh#FADE8B;*{margin:-60 60 0;border-top:0",
+    "bytes": 138,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

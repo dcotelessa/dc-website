@@ -3751,5 +3751,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-01-17",
+    "target": 17,
+    "css": "\u0026{background:#F4DA64;color:4FA9C0;margin:70 60;box-shadow:0 0 0 8cm;*{margin:130 30-50;border-inline:64q dotted#2B2A4A;box-shadow:55vw -138q,-10pc -138q",
+    "bytes": 152,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

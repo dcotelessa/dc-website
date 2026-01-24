@@ -1,9 +1,9 @@
 {
-  "date": "2026-01-23",
-  "target": 23,
-  "css": "*{*{p{--t:at 50%214q,#401C1D 5ch,#0000;padding:94}--t:at 50%150q,#F4DA64 5ch,#0000}background:radial-gradient(1q var(--t,,#401C1D 25vw,#D5ACAD",
-  "bytes": 142,
-  "difficulty": "medium",
+  "date": "2026-01-24",
+  "target": 24,
+  "css": "\u0026{border:solid#37B4BD;border-width:120 20;background:0/15vw conic-gradient(#394257 25%,#C692 0",
+  "bytes": 94,
+  "difficulty": "hard",
   "screenshot": "target-1-comparison.png",
   "has_image": true
 }

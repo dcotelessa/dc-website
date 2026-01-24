@@ -3814,5 +3814,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-01-24",
+    "target": 24,
+    "css": "\u0026{border:solid#37B4BD;border-width:120 20;background:0/15vw conic-gradient(#394257 25%,#C692 0",
+    "bytes": 94,
+    "difficulty": "hard",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

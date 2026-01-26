@@ -3832,5 +3832,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-01-26",
+    "target": 26,
+    "css": "\u0026{background:#9754}*{margin:50 120;border:solid#5370d9;border-width:0 30 var(--t,)30;*{margin:0 20;p{--t:0;margin:0-80;padding:15;scale:2 1",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

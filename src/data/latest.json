@@ -1,9 +1,9 @@
 {
-  "date": "2026-01-30",
-  "target": 30,
-  "css": "*{*{margin:60 120;border:8mm solid#4C455B;--p:50%15vw/99%25vw}background:radial-gradient(1q,#4C455B 5ch,#F3EAD2)var(--p,",
-  "bytes": 120,
+  "date": "2026-01-31",
+  "target": 31,
+  "css": "\u0026{--t:radial-gradient(1q,#EFBB74 53q,#0000);background:var(--t)0-10vh/100%45vw,var(--t)5vw/45vw,#555FD9;*{border:5vw solid#555FD9;margin:50 100",
+  "bytes": 143,
   "difficulty": "medium",
-  "screenshot": "target-1-comparison.png",
-  "has_image": true
+  "screenshot": "",
+  "has_image": false
 }

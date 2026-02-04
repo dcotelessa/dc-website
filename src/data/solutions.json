@@ -3913,5 +3913,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-04",
+    "target": 35,
+    "css": "*{background:linear-gradient(90deg,#fff 5vw,#AC778B 0)5ch 0/70vh;border-radius:11q;color:AC778B;margin:0;box-shadow:-50vw -5pc,-50vw 5pc,50vw -5pc,50vw 5pc,inset 0 0 0 10vh}\u0026{padding:5vw;color:#fff;margin:100 150;border-radius:32q",
+    "bytes": 230,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

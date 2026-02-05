@@ -3922,5 +3922,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-05",
+    "target": 36,
+    "css": "*{--u:5pc;margin:220-80-80;background:linear-gradient(90deg,#E25C57 var(--u),#3F4869 0)0/115px}\u0026{margin:0;--u:37q;border:solid#3F4869;border-width:0 125 80",
+    "bytes": 155,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

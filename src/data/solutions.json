@@ -3931,5 +3931,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-06",
+    "target": 37,
+    "css": "\u0026{background:#37B4BD;*{background:#FAE29E;margin:220 160 0;rotate:attr(r deg);p{padding:20;translate:-35vw -5pc;+p{padding:10;translate:-138q -25pc",
+    "bytes": 147,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -4003,5 +4003,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-14",
+    "target": 45,
+    "css": "\u0026{background:#FA31;margin:145 160;color:030504;box-shadow:-116q 0 0 10vh#F40D,116q 0 0 10vh#2869FE,0 .1in,0-.1in,inset.9in 0",
+    "bytes": 124,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

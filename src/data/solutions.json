@@ -4021,5 +4021,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-16",
+    "target": 47,
+    "css": "\u0026{background:#11092d;margin:16 27;*{float:left;p{+[a]{background:#4a9a86;color:FFCA00;margin-top:126}background:#FFCA00;width:50;height:50;color:4A9A86;border:10vh solid",
+    "bytes": 169,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

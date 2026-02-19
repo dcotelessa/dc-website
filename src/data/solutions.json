@@ -4048,5 +4048,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-19",
+    "target": 50,
+    "css": "\u0026{background:conic-gradient(at 40vw 60vw,#D8D8D8 75%,#D99795 0)30vw 10vh;p{margin:110 112;height:80;color:558C90;box-shadow:20vw 20vw,-20vw -20vw",
+    "bytes": 145,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

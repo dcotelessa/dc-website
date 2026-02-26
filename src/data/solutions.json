@@ -4111,5 +4111,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-02-26",
+    "target": 57,
+    "css": "\u0026{--t:radial-gradient(1q,#DB5EAD 25px,#0000);--u:conic-gradient(at 53q 53q,#0000 75%,#70CCDB 0);background:var(--t)11q -35vh/201q,var(--u)5vw 5vw/82mm,var(--t)-116q 35vh/82mm,var(--u)5pc 243q/201q,#129",
+    "bytes": 201,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

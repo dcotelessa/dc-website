@@ -1,8 +1,8 @@
 {
-  "date": "2026-02-28",
-  "target": 59,
-  "css": "*{background:radial-gradient(1q,#0098D1 30vw,#0000),linear-gradient(#0098D1 35vw,var(--t,#2F434E)0);*{margin:0 160;--t:#009D1",
-  "bytes": 125,
+  "date": "2026-03-01",
+  "target": 60,
+  "css": "*{background:#AC342E;border:solid#FFEDB7;border-width:160 50 0;margin:70 90 20 40;*{margin:-210-100 50 0;scale:-1",
+  "bytes": 113,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

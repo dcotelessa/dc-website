@@ -4138,5 +4138,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-03-01",
+    "target": 60,
+    "css": "*{background:#AC342E;border:solid#FFEDB7;border-width:160 50 0;margin:70 90 20 40;*{margin:-210-100 50 0;scale:-1",
+    "bytes": 113,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

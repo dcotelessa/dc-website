@@ -4309,5 +4309,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-03-20",
+    "target": 79,
+    "css": "\u0026{background:#352939;div{margin:145 24%-155;height:10;background:#fade8b}p{transform-origin:144%5ch;margin:110 227-190 77;height:80;background:#a76dff;border-radius:0 1in 1in 0}*{rotate:attr(r deg",
+    "bytes": 196,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

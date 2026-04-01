@@ -4408,5 +4408,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-04-01",
+    "target": 91,
+    "css": "*{*{box-shadow:0 30vw,0-30vw,inset 0 5vw}color:F3AC3C;margin:60 0;border-inline:5pc solid}\u0026{background:#2F5872;margin:80 20",
+    "bytes": 123,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

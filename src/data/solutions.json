@@ -4498,5 +4498,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-04-11",
+    "target": 101,
+    "css": "\u0026{background:#0e42}p{+p{rotate:90deg;margin:60 142;mask:linear-gradient(45deg,#0000 73q,red 0)}background:#a1e6e4;margin:60 182-200 102;height:120;border:10vh solid#6d62ba;border-radius:1in 1in 0 0",
+    "bytes": 197,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

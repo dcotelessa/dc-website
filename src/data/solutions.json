@@ -4507,5 +4507,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-04-12",
+    "target": 102,
+    "css": "*{background:radial-gradient(1q,#F3AC3C 11em 0,#442929)-11q -5px/35vw;*{margin:65 110;font:3.8q'';p{margin:0 40;border:solid#F3AC3C;border-width:0 40 0 20;height:170;scale:-1 1",
+    "bytes": 176,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -4741,5 +4741,14 @@
     "difficulty": "medium",
     "screenshot": "",
     "has_image": false
+  },
+  {
+    "date": "2026-05-08",
+    "target": 128,
+    "css": "p{+p{margin:-70 0 0 125}--t:1in;margin:2 84%0-45;padding:15;border:5vw solid#EEE}\u0026,p+p{\u003e*{margin:65 125;background:#EEE}background:#DF914B}*{border-radius:var(--t,0 0 5vw 5vw",
+    "bytes": 174,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

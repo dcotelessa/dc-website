@@ -4840,5 +4840,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-05-19",
+    "target": 139,
+    "css": "*{margin:110 160;color:B29DF7;box-shadow:inset 10lh 0,7.5ch 7.5ch,-7.5ch 7.5ch,7.5ch -7.5ch,-7.5ch -7.5ch,0 0 0 1.1lh#B29DF7,0 0 0 9lh#EFEADE;*{margin:20;color:594F7C;font:8pt/0'",
+    "bytes": 178,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

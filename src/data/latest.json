@@ -1,8 +1,8 @@
 {
-  "date": "2026-05-29",
-  "target": 149,
-  "css": "*{background:#CF596A;margin:40 90;border:solid#F3EAD2;border-width:40 var(--t,)40;*{--t:0 0;padding:50;background:0;margin:0;translate:0 40pt;rotate:45deg",
-  "bytes": 154,
+  "date": "2026-05-31",
+  "target": 151,
+  "css": "*{background:#556D7F;color:F4DCBF;margin:50 10;border-block:4.2ex dashed;*{margin:0 95;width:130;height:140;border-inline:32q solid;font:0'",
+  "bytes": 139,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

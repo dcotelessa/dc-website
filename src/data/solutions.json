@@ -4966,5 +4966,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-06-03",
+    "target": 154,
+    "css": "*{margin:45 320 225 50;color:2F5A76;box-shadow:0 32q,10lh 32q,0 5lh 0 5vw,10lh 5lh 0 5vw;*{margin:180-90-180 90;background:#D5CA5B;scale:1-1",
+    "bytes": 140,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

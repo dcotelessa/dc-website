@@ -5011,5 +5011,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-06-09",
+    "target": 160,
+    "css": "\u0026{background:#EBF6F0;*{background:radial-gradient(1q,#0000 5ch,#4C4C6B 0 74q,#4A9A86 0 25vw,#0000);clip-path:polygon(50%50%,14%99%,0 0,99%0,86%99%",
+    "bytes": 146,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

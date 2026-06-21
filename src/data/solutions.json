@@ -5110,5 +5110,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-06-21",
+    "target": 172,
+    "css": "\u0026{margin:60 110;border:32q solid#EC1D25;*{color:#FFF;margin:45;box-shadow:0 25vh,0-25vh,25vh 0,-25vh 0,inset 0 1in#004B8E,0 0 0 5vh#004B8E",
+    "bytes": 138,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

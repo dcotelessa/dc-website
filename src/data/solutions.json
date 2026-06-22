@@ -5119,5 +5119,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-06-22",
+    "target": 173,
+    "css": "*{background:conic-gradient(at 60%5vw,#F0CD48 25%,#38506F 0)-30vw 196q;*{margin:55 120 125;background:#F0CD48;border-radius:5vw;p{color:F0CD48;padding:5vh;box-shadow:-5vw 40vw,-5lh 40vw",
+    "bytes": 185,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

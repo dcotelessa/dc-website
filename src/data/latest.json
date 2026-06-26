@@ -1,8 +1,8 @@
 {
-  "date": "2026-06-25",
-  "target": 176,
-  "css": "*{margin:0;p{height:60;background:radial-gradient(1q at 25%100%,#FFF 5vw,#328FC1 0 15vw,#0000);offset:ray(attr(r deg))/15vw 5lh",
-  "bytes": 127,
+  "date": "2026-06-26",
+  "target": 177,
+  "css": "*{background:#d8f581;*{margin:40 255 205 90;color:#222;box-shadow:55vh 55vh,29q 8.6em 0 29q,8.6em 29q 0 29q,inset 1in 0",
+  "bytes": 119,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

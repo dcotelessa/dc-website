@@ -5164,5 +5164,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-06-27",
+    "target": 178,
+    "css": "*{background:#E3E46F}\u0026{box-shadow:inset 0 0 0 138q#5DBCF9;*{margin:35 160;border-radius:1in;rotate:45deg;*{height:230;margin:0;rotate:90deg",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -5173,5 +5173,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-06-28",
+    "target": 179,
+    "css": "\u0026{background:#284A5B;*{margin:50 25%;border-radius:7pc 2in 2in;corner-top-left-shape:bevel;rotate:135deg;background:conic-gradient(#F1F271 75%,#BE6B6C 0",
+    "bytes": 152,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -5191,5 +5191,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-07-01",
+    "target": 182,
+    "css": "\u0026{margin:142 202}p{translate:32q -32q;rotate:90deg}[a]{background:#D9BB61}[b]{scale:-1 1}dt,p{width:120;height:60;border-radius:1in 0;background:#394257;+*{margin:-76-140",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

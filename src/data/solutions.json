@@ -18,6 +18,15 @@
     "has_image": false
   },
   {
+    "date": "2024-11-23",
+    "target": 328,
+    "css": "*{background:#EEB850;body{background:#243D83;border-radius:21q;margin:95 90;padding:20;p{margin:0 55;padding:7.5;+p{margin:40 55 0",
+    "bytes": 130,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
+  },
+  {
     "date": "2024-11-24",
     "target": 329,
     "css": "*{background:#328FC1;*{background:#EEB850;color:EEB850;margin:140 150;box-shadow:131q 23q,-131q 23q,131q -23q,-131q -23q",
@@ -3708,6 +3717,42 @@
     "has_image": true
   },
   {
+    "date": "2026-01-13",
+    "target": 13,
+    "css": "\u0026{background:#45B45B;margin:22 12;*{background:conic-gradient(at 53q 30vw,#0000 75%,#194247 0)0 15vw/328q 138q,radial-gradient(1q at 50%25px,#194247 25px,#0000",
+    "bytes": 159,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-01-14",
+    "target": 14,
+    "css": "\u0026{--t:conic-gradient(at 53Q 30vw,#0000 75%,#ffd0fa 0);background:var(--t)5lh 5lh/180Q,var(--t)10vh 5lh/307Q,radial-gradient(1Q,#ffd0fa 25px,#a82973)-18%-36%/2.4in 201Q",
+    "bytes": 167,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-01-15",
+    "target": 15,
+    "css": "*{margin:75 125;background:#2B2A4A;color:5AA4B7;box-shadow:74q 0,50vh 0,74q 5pc,50vh 5pc,55vw 5pc#2B2A4A,0 0 0 8ic;*{margin:10 160 90-60;border-radius:1in;font:0'",
+    "bytes": 162,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-01-16",
+    "target": 16,
+    "css": "*{margin:45%95 60;background:linear-gradient(90deg,#dd22 7.5ch,#0f3a22 0 25vh)0/25vh;box-shadow:0-15ch#3c7a,0 0 0 26ch#0f3a22;*{margin:-38%26%40;border-radius:1in;font:0'",
+    "bytes": 170,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
     "date": "2026-01-17",
     "target": 17,
     "css": "\u0026{background:#F4DA64;color:4FA9C0;margin:70 60;box-shadow:0 0 0 8cm;*{margin:130 30-50;border-inline:64q dotted#2B2A4A;box-shadow:55vw -138q,-10pc -138q",
@@ -3919,6 +3964,15 @@
     "target": 40,
     "css": "\u0026{background:#8BFA94;*{margin:75 20;background:radial-gradient(#D76159 5vh,#0000 0)0/20vh 20vh,conic-gradient(at 10vh 10vh,#8BFA94 75%,#D76159 0)4.7em 0/30vw 30vw;p{height:30;margin:42 0;font:20%'",
     "bytes": 196,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-02-10",
+    "target": 41,
+    "css": "\u0026{background:#f6e49c;margin:102 82;*{height:80;background:#2F5C24;p{translate:-5pc -5em;width:80;border-radius:0 100%;box-shadow:75vw 40vw#2F5C24;+p{scale:1-1;font:20%a",
+    "bytes": 168,
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
@@ -4455,11 +4509,38 @@
     "has_image": true
   },
   {
+    "date": "2026-04-12",
+    "target": 102,
+    "css": "*{background:radial-gradient(1q,#F3AC3C 11em 0,#442929)-11q -5px/35vw;*{margin:65 110;font:3.8q'';p{margin:0 40;border:solid#F3AC3C;border-width:0 40 0 20;height:170;scale:-1 1",
+    "bytes": 176,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
     "date": "2026-04-13",
     "target": 103,
     "css": "\u0026{border:5vw solid#588A95;background:conic-gradient(at 110px 110px,#588A95 75%,#2F5A76 0)215px 11q/100%130px;*{margin:30 220 30 35;border:solid;border-width:100 0 100 100;border-color:#0000#E8AD6D;p{margin:-100 0-100-20",
     "bytes": 219,
     "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-04-14",
+    "target": 104,
+    "css": "\u0026{margin:60 95 150;background:#E76;border:solid#F2EAA8;border-radius:0 1in 1in 0;border-width:30 30 30 0;*{margin:0 60-120 90;background:#F2EAA8",
+    "bytes": 144,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-04-15",
+    "target": 105,
+    "css": "\u0026{margin:87 232 87 42;background:#2FAA8B;*{color:17405B;box-shadow:inset 2in 0,95px -69q,95px 69q,201q 0,60vw -50vh 0 5ch,245px 50vh 0 5ch",
+    "bytes": 138,
+    "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
   },
@@ -4496,6 +4577,15 @@
     "css": "\u0026{background:#2f5c24;margin:57 72 0 114;*{height:5ch;color:EBCB58;border:3.75ch solid;border-left:0;border-radius:0 54em 54em 0;p{scale:-1;margin:40 20 0-42}h1{margin:-120 49;height:74Q;box-shadow:62Q 95Q,-75Q -95Q;font:0\"",
     "bytes": 222,
     "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-04-20",
+    "target": 110,
+    "css": "*{\n  background:radial-gradient(1q at top,#0000 5ch,#38051E 0 110px,#0000)0 var(--t,95px#DE387B);*{--t:150q",
+    "bytes": 107,
+    "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
   },
@@ -5206,6 +5296,15 @@
     "target": 194,
     "css": "*+*{margin:30 125;border:solid;border-width:0 75 60;border-color:#0000#FEF8BB;background:0 32q linear-gradient(#331D1D 5vw,#B46C31 0",
     "bytes": 132,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
+  },
+  {
+    "date": "2026-07-14",
+    "target": 195,
+    "css": "\u0026{background:1in 55vw/5in 5in conic-gradient(#e0d59d 75%,#78C3C7 0)}*{+*{display:flex}margin:0 var(--t);border:solid;border-color:#5483a9#0000;border-width:0}p{border-width:0 75 150}[a]{--t:-25",
+    "bytes": 193,
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true

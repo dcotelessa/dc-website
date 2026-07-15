@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-14",
-  "target": 195,
-  "css": "\u0026{background:1in 55vw/5in 5in conic-gradient(#e0d59d 75%,#78C3C7 0)}*{+*{display:flex}margin:0 var(--t);border:solid;border-color:#5483a9#0000;border-width:0}p{border-width:0 75 150}[a]{--t:-25",
-  "bytes": 193,
+  "date": "2026-07-15",
+  "target": 196,
+  "css": "body{background:#F48B26;margin:54 66;display:flex;flex-wrap:wrap;gap:4vw 50px}p{padding:28;background:#F5E3B5}[b]{rotate:15deg",
+  "bytes": 126,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

@@ -5389,5 +5389,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-07-25",
+    "target": 206,
+    "css": "*{margin:0;position:fixed}dl{width:400;height:300;background:radial-gradient(1Q,#94b31f 90px,#0000 0 30vw,#94b31f)}p{offset:ray(attr(r deg,0deg));offset-distance:1in;padding:15 30;background:#5f5f1e",
+    "bytes": 198,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

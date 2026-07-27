@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-26",
-  "target": 207,
-  "css": "*{color:F7EC7D}\u0026{margin:0 0 90;background:#E38F66;border:5em dashed;scale:2.75 1;*{margin:0 80-80;box-shadow:0 53q",
-  "bytes": 114,
-  "difficulty": "medium",
+  "date": "2026-07-27",
+  "target": 208,
+  "css": "\u0026{background:#3450ae;margin:72;color:3450AE;p{box-shadow:inset calc(attr(t vw)*7)0,inset calc(attr(t vw)*-5)0;height:40;margin:0-20;background:linear-gradient(#0000 0 5vw,#3450AE 0),linear-gradient(90deg,#0000 30vw,#3450AE 0 130px,#22d16a 0),linear-gradient(90deg,#22d16a 0 5vw,#0000 0)0/30px",
+  "bytes": 292,
+  "difficulty": "easy",
   "screenshot": "target-1-comparison.png",
   "has_image": true
 }

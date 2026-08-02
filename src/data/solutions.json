@@ -5461,5 +5461,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-08-02",
+    "target": 214,
+    "css": "\u0026{background:#E05947;color:EED9D9;margin:40 100;border:70px dotted;*{margin:20-10;border:5vw solid;p{margin:-55;height:99;border-width:0 0 0 20",
+    "bytes": 143,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

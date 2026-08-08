@@ -5506,5 +5506,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-08-08",
+    "target": 220,
+    "css": "\u0026{margin:12 52;background:#2E8DA6;*{--t:at 7ch 5ch,#0000 75%,;background:conic-gradient(var(--t)#FFF1F1 0)0 0/7em 60vh,conic-gradient(var(--t)#E5969E 0)7ch 5ch/7em 60vh",
+    "bytes": 168,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

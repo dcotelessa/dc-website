@@ -5551,5 +5551,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-08-13",
+    "target": 225,
+    "css": "*{margin:90 175;background:#4c4c6b;color:4A9A86;font:132q/25vh\"\";box-shadow:-1em -1lh,1em 1lh,-1em 1lh#fae29e,1em -1lh#fae29e;*{margin:35 15;scale:1-1;font:30vh/10vw\"",
+    "bytes": 166,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

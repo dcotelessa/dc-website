@@ -5623,5 +5623,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-08-22",
+    "target": 234,
+    "css": "*{margin:10;outline:1.4ex solid#94B31F;background:conic-gradient(#0000 75%,#5F5F1E 0)45vw 0/50vw 90vw repeat-y,radial-gradient(1q,#FFF 5vh,#94B31F)0 30vh/35vw 243q;border:6.9ex dashed#2027;*{margin:0-90;font:0'",
+    "bytes": 210,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

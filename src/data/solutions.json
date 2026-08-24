@@ -5641,5 +5641,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-08-24",
+    "target": 236,
+    "css": "*{background:radial-gradient(1q,#fff 5lh,#BB4E60);*{scale:.21.28;background:conic-gradient(#fff 75%,#BB4E60 0)3in 71vh",
+    "bytes": 118,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

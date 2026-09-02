@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-01",
-  "target": 244,
-  "css": "\u0026{background:radial-gradient(1q,#BADE37 15vw,#333 0 5lh,#BADE37);*{color:BADE37;border:5vw solid;margin:110 0 0 190;p{margin:-90-0-0-20;height:110;box-shadow:-30vw 37q 0-37q",
-  "bytes": 173,
+  "date": "2026-09-02",
+  "target": 245,
+  "css": "*{background:#A84A4B;border:27q solid;border-image:conic-gradient(#F5E3B5);margin:25 75;*{margin:0;border-width:50",
+  "bytes": 114,
   "difficulty": "medium",
   "screenshot": "target-1-comparison.png",
   "has_image": true

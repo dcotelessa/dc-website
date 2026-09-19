@@ -5875,5 +5875,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-09-19",
+    "target": 262,
+    "css": "\u0026{background:radial-gradient(1q,#FFA173 125px,#485993);*{margin:110 100;background:#485993;p{width:80;height:80;transform:matrix(1.13,.63,-1.13,.63,-40,-40);background:linear-gradient(135deg,#485993 50%,#FFA173 0",
+    "bytes": 212,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

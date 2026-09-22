@@ -5902,5 +5902,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-09-22",
+    "target": 265,
+    "css": "\u0026{--t:#0000 5ch,#463C1D 0 53q,#0000;background:radial-gradient(1q at 0,var(--t))215px 53q,radial-gradient(1q at 100%,var(--t))196q -53q,conic-gradient(at 32q 25ch,#8E7B3B 75%,#463C1D 0)185px 53q",
+    "bytes": 194,
+    "difficulty": "medium",
+    "screenshot": "",
+    "has_image": false
   }
 ]

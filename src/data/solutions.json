@@ -5911,5 +5911,14 @@
     "difficulty": "medium",
     "screenshot": "",
     "has_image": false
+  },
+  {
+    "date": "2026-09-23",
+    "target": 266,
+    "css": "\u0026{margin:50 140;color:#8E3B66;border-radius:1in;background:#F5A7A7;box-shadow:0 0 0 9in;p{width:20;height:40;box-shadow:-8px 9ch,92px 9ch,44q 44q,44q 34vh",
+    "bytes": 154,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

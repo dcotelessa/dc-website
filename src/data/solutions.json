@@ -5920,5 +5920,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-09-24",
+    "target": 267,
+    "css": "\u0026{background:#FADE8B;*{margin:30 80;--t:conic-gradient(at 25%25%,#0000 75%,#3A4B86 0);background:var(--t)45vw,var(--t)0 45vw,conic-gradient(at 5pc 10pc,#FADE8B 25%,#3A4B86 0)5pc -5pc",
+    "bytes": 182,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

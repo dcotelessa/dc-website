@@ -5956,5 +5956,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-09-28",
+    "target": 271,
+    "css": "\u0026{margin:135 180 135 130;box-shadow:inset 1in 0,-116q 0;\u003e*{margin:-65-160-65 110;border:32q solid;border-radius:50%}p{margin:-30-30-30 50;height:160;box-shadow:inset 32q -32q,inset -32q 0#fff,-11q 32q#fff",
+    "bytes": 204,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

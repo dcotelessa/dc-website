@@ -6001,5 +6001,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-10-03",
+    "target": 276,
+    "css": "*{margin:0;background:#B08743;+\u0026{clip-path:circle(25vw);background:radial-gradient(1q at 35vw 53q,#411 25vw,#0000),radial-gradient(1q at 85vw 5lh,#411 25vw,#0000),radial-gradient(1q,#FFF 5em,#411);p{+p{translate:243q 35vw}translate:50vh 40vw;width:20;height:20;border-radius:1in;background:#441212",
+    "bytes": 297,
+    "difficulty": "easy",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

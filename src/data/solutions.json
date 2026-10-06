@@ -6028,5 +6028,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-10-06",
+    "target": 279,
+    "css": "\u0026{background:radial-gradient(1q,#8B4646 5em,#fff 0 25vw,#E98F6B);*{margin:110 170;color:E98F6B;box-shadow:-5vw 0#fff,5vw 0#fff,9ch 0,-9ch 0",
+    "bytes": 139,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

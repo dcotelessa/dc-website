@@ -6127,5 +6127,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-10-17",
+    "target": 290,
+    "css": "\u0026{margin:-50 0 70;border:122q solid#73493A;background:#FEF9CE;*{margin:120 0-120;border-inline:60px solid#A6BA86",
+    "bytes": 112,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

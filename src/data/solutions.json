@@ -6190,5 +6190,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-10-25",
+    "target": 298,
+    "css": "*{background:#809E97;color:36443B}\u0026{margin:60 50;border:33q solid;*{margin:80 46-60;height:89;clip-path:polygon(0 100%,100%100%,50%0)}p{margin:0-213;border:148q solid",
+    "bytes": 166,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

@@ -6289,5 +6289,14 @@
     "difficulty": "easy",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-11-06",
+    "target": 310,
+    "css": "*{margin:15 65 45 95;background:#E98F6B;color:8B4646;border:solid;border-width:0 0 30 30;box-shadow:4in 0#E98F6B;*{margin:30 30 10 10;scale:-1;box-shadow:35vw 74q 0-74q,-74q -35vw 0-74q",
+    "bytes": 185,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]

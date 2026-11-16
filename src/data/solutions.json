@@ -6352,5 +6352,14 @@
     "difficulty": "medium",
     "screenshot": "target-1-comparison.png",
     "has_image": true
+  },
+  {
+    "date": "2026-11-16",
+    "target": 320,
+    "css": "*{background:#c36271;p{position:fixed;border-radius:1in 0 0;background:#F2E09F;inset:13ch 180q;transform:rotate(calc(sibling-index()*45deg))translateY(58q",
+    "bytes": 154,
+    "difficulty": "medium",
+    "screenshot": "target-1-comparison.png",
+    "has_image": true
   }
 ]
